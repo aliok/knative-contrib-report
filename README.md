@@ -8,6 +8,10 @@ Workflow:
 - [200-fetch-commits.js](200-fetch-commits.js): Fetches all commits from all Knative repositories.
 - [250-build-contributor-list.js](250-build-contributor-list.js): Builds a list of all contributors from the fetched data.
 
+TODO:
+- Generate a static HTML report
+- Document the report generation process
+- Give credits to cuttlecat
 
 Running locally:
 ```shell
