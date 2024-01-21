@@ -1,4 +1,4 @@
-name: 200-fetch-commits.yaml
+name: 200-fetch-commits
 
 permissions:
   contents: write
