@@ -25,7 +25,7 @@ env:
   SEARCH_DATA_DIRECTORY: ${{ github.workspace }}/200-fetch-commits
   INTERVAL_CAP: 7
   RENEW_PERIOD_IN_DAYS: 30
-  ALL_TIME: "false"
+  ALL_TIME: "true"
 
 jobs:
   job-200-fetch-commits:
