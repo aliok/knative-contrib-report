@@ -1,4 +1,4 @@
-name: 100-fetch-repos.yaml
+name: 100-fetch-repos
 
 permissions:
   contents: write
