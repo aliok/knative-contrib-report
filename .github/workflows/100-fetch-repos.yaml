@@ -91,7 +91,7 @@ jobs:
           
           echo "Starting 100-fetch-repos"
           node node_modules/@opentr/cuttlecat/dist/index.js execute \
-            --command-file="${{ github.workspace }}/dist/100-fetch-repos.js" \
+            --command-file="${{ github.workspace }}/100-fetch-repos.js" \
             --github-token="${{ secrets.GITHUB_TOKEN }}" \
             --data-directory="${{ env.FETCH_DATA_DIRECTORY }}" \
             --interval-cap="${{ env.INTERVAL_CAP }}" \
@@ -99,7 +99,7 @@ jobs:
             --log-level="${{ env.LOG_LEVEL }}"
                
           echo "Starting 150-build-repo-list"
-          node "${{ github.workspace }}/dist/150-build-repo-list.js"
+          node "${{ github.workspace }}/150-build-repo-list.js"
 
       - name: Commit
         if: ${{ !github.event.act }} # skip during local actions testing
