@@ -96,7 +96,8 @@ jobs:
             --data-directory="${{ env.FETCH_DATA_DIRECTORY }}" \
             --interval-cap="${{ env.INTERVAL_CAP }}" \
             --renew-period-in-days="${{ env.RENEW_PERIOD_IN_DAYS }}" \
-            --log-level="${{ env.LOG_LEVEL }}"
+            --log-level="${{ env.LOG_LEVEL }}" \
+            --max-run-time-in-minutes=30
                
           echo "Starting 150-build-repo-list"
           node "${{ github.workspace }}/150-build-repo-list.js"
