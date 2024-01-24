@@ -10,6 +10,10 @@ Workflow:
 
 ## How it works
 
+This project uses [cuttlecat](https://github.com/OpenTRFoundation/cuttlecat) to fetch data from GitHub.
+The good thing about cuttlecat is that it is designed to be run in a GitHub Actions workflow.
+When there's a rate limit error, or when the process is interrupted, cuttlecat can continue from where it left off.
+
 Workflow below is split into 2 GitHub Actions workflows. Each workflow is pushing its output to a separate branch.
 Later in the workflow, if the process is finished, a PR is created to merge the branch into the main branch.
 
