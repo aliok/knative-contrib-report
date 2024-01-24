@@ -35,11 +35,12 @@ jobs:
     steps:
       - name: Set env ENABLE_DEBUG_LOGGING
         run: |
-          if [[ "${ACTIONS_RUNNER_DEBUG:-false}" == true ]]; then
-            echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
-          else
-            echo "LOG_LEVEL=info" >> "$GITHUB_ENV"
-          fi
+          #if [[ "${ACTIONS_RUNNER_DEBUG:-false}" == true ]]; then
+          #  echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
+          #else
+          #  echo "LOG_LEVEL=info" >> "$GITHUB_ENV"
+          #fi
+          echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
 
       - uses: actions/setup-node@v3
         with:
