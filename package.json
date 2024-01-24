@@ -8,7 +8,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@opentr/cuttlecat": "0.0.11-dev-snapshot.c5fe2a7.20240124214029",
+    "@opentr/cuttlecat": "0.0.11-dev-snapshot.d4b66cb.20240124215552",
     "date-fns": "^2.30.0",
     "uuid": "^9.0.1"
   },
