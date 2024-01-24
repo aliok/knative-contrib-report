@@ -96,7 +96,7 @@ jobs:
             --interval-cap="${{ env.INTERVAL_CAP }}" \
             --renew-period-in-days="${{ env.RENEW_PERIOD_IN_DAYS }}" \
             --log-level="${{ env.LOG_LEVEL }}" \
-            --max-run-time-in-minutes=30
+            --max-run-time-in-minutes=1
           
           echo "Starting 250-build-contributor-list"
           node "${{ github.workspace }}/250-build-contributor-list.js"
