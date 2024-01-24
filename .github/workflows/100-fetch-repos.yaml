@@ -41,7 +41,7 @@ jobs:
             echo "LOG_LEVEL=info" >> "$GITHUB_ENV"
           fi
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           # TODO: use the nvmrc file
           node-version: 'lts/hydrogen'
