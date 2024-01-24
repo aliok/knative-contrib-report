@@ -23,7 +23,7 @@ env:
   ACTIONS_RUNNER_DEBUG: ${{ secrets.ACTIONS_RUNNER_DEBUG }}
   # cuttlecat related
   SEARCH_DATA_DIRECTORY: ${{ github.workspace }}/200-fetch-commits
-  INTERVAL_CAP: 20
+  INTERVAL_CAP: 50
   RENEW_PERIOD_IN_DAYS: 30
   ALL_TIME: "true"
 
