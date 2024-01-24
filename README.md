@@ -10,6 +10,29 @@ Workflow:
 
 ## How it works
 
+Workflow below is split into 2 GitHub Actions workflows. Each workflow is pushing its output to a separate branch.
+Later in the workflow, if the process is finished, a PR is created to merge the branch into the main branch.
+
+Workflow 1:
+- Fetch repository list for Knative GitHub organizations
+  - Store them in `100-fetch-repos` directory
+  - Each directory contains the output of new execution of the process
+  - The directory is named after the execution start timestamp
+- Build repository list JSON file (repos.json) from the fetched data
+  - Only use the latest fetched repository data
+
+Workflow 2: 
+- Fetch commits for all repositories
+  - Use the repository list JSON file (repos.json)
+  - Fetch commits for all repositories in that file
+  - Store them in `200-fetch-commits` directory
+  - Each directory contains the output of new execution of the process
+  - The directory is named after the execution start timestamp
+- Build contributor list JSON file (contributors.json) from the fetched data
+  - Use all fetched commit data (not just latest)
+  - The file contains a list of all contributors to the Knative project
+  - It lists the first commit of the contributor
+
 ## Running locally
 
 Running locally:
