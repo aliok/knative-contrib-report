@@ -1,10 +1,114 @@
 [
   [
+    "grantr",
+    {
+      "earliestCommitDate": "2018-01-26T00:17:22.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/66f6e7dd11d45724e25416937a32e8921d14996b",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "dewitt",
+    {
+      "earliestCommitDate": "2018-01-30T17:45:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7f5da0b7438f562ea4a45c7021a674e2f90a5ddf",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "mattmoor",
     {
-      "earliestCommitDate": "2018-02-04T03:30:55.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/aa19008f1b119642bdf82365c8990b302731426e",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-01-31T05:03:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/e81ecbf346eec38771d8a38bd166418a4c993331",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "bobcatfish",
+    {
+      "earliestCommitDate": "2018-01-31T22:16:04.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/4b597bd61d120200f35a5bd21333a3080515d860",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "mchmarny",
+    {
+      "earliestCommitDate": "2018-02-01T19:12:20.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/cb0bac899cdc782ea74d9923db4ca4f30a080fbd",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "josephburnett",
+    {
+      "earliestCommitDate": "2018-02-02T22:32:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/389378fc40b020a85dd8532729596601ff8c3d87",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "steuhs",
+    {
+      "earliestCommitDate": "2018-02-02T23:58:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/8f78c1d4994824416f1800b19fa5a763586e3494",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "isdal",
+    {
+      "earliestCommitDate": "2018-02-03T00:14:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/07af244e85ef39e924207edc664032e0af509052",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "tanin47",
+    {
+      "earliestCommitDate": "2018-02-04T18:44:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/a61c6ebb15a35951342554643639609ba46855ee",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "yanweiguo",
+    {
+      "earliestCommitDate": "2018-02-06T01:58:34.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/80dea00012c12f21630a2d02319ff045f2967273",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "adrcunha",
+    {
+      "earliestCommitDate": "2018-02-06T22:24:27.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7248f154122743c7919b28356c2e6fd57802c5f8",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "xoebus",
+    {
+      "earliestCommitDate": "2018-02-08T00:35:05.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/73e7adf7ee452b3a4cce176d9a077ac4ae81edff",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "imjasonh",
+    {
+      "earliestCommitDate": "2018-02-08T17:18:38.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/b1d5f7ba6055270b073567b46f5eb4a7c14cd1d5",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "drewinglis",
+    {
+      "earliestCommitDate": "2018-02-09T00:40:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/254e3b8b7ba67c3130baf1a13dcbfe8ff2c31eba",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -16,91 +120,139 @@
     }
   ],
   [
-    "imjasonh",
+    "MaxRossGoogle",
     {
-      "earliestCommitDate": "2018-02-09T21:06:30.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/c6668899918aea32eeaee96e115c33f12d665beb",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-02-10T04:50:39.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/35276376b573acc441ca427dd462f46f87696cec",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
-    "bobcatfish",
+    "akyyy",
     {
-      "earliestCommitDate": "2018-02-13T23:11:30.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/46d7e052fe50bfeac4183bbaa7955c5a9cc9ee2d",
-      "earliestCommitRepo": "knative/build"
-    }
-  ],
-  [
-    "grantr",
-    {
-      "earliestCommitDate": "2018-02-14T01:56:37.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/186f5783cee304b7e946e515ece2677a9f4f197a",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "josephburnett",
-    {
-      "earliestCommitDate": "2018-02-14T23:12:35.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/4f3742581bd3e825533974bb38b45decb7fe071c",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "drewinglis",
-    {
-      "earliestCommitDate": "2018-02-20T22:06:45.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/078611aca3f178a1de1c8c32811aac4cc3dc95f6",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-02-12T17:59:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/b25f7f53ada013fe63fc5d3e5b961f9c13a7e06e",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
     "mdemirhan",
     {
-      "earliestCommitDate": "2018-02-23T00:56:40.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/03a39de04dc7bce696e36787ced04ee456b29905",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-02-17T00:22:52.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/8976fb3f04c0d80b72fc275bb85e3f6a59f598c4",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
     "tcnghia",
     {
-      "earliestCommitDate": "2018-03-06T21:57:38.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/5016471aae7f178d22ff4625f44852a8650f10d4",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-02-23T00:46:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/287ce755d40c7c63a8c8c397f6be87bf022c3ee8",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
-    "adrcunha",
+    "kmerrill27",
     {
-      "earliestCommitDate": "2018-03-07T18:15:35.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/b2bdb9d0d16031a810500ab2b321c880dce0c529",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-02-28T00:38:11.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/ddc031048a9a6cef1af864416bae68dd1e72f856",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
-    "mchmarny",
+    "ian-mi",
     {
-      "earliestCommitDate": "2018-03-15T21:50:33.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/af64dea3990191b7d99b531318cd847483db9538",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-02-28T17:28:56.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/9d7123f0ebfe17e9f873700b1b9f59a3a42914e3",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
-    "yanweiguo",
+    "sclevine",
     {
-      "earliestCommitDate": "2018-03-22T20:41:46.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/7597b85cb34669cd07c8b196da793eacbcfbf292",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-03-06T19:42:46.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/b483cb3ad6ec9136f2fe530508f79ed7c5c21037",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "nikkithurmond",
+    {
+      "earliestCommitDate": "2018-03-07T20:50:15.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/d7992e754237afae6468b41bb8ed304760f79108",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "rgregg",
+    {
+      "earliestCommitDate": "2018-03-08T20:19:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/cf2d64b85213bd217775762fb8ca6bd796282533",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "loewenstein",
+    {
+      "earliestCommitDate": "2018-03-16T22:03:55.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/2f41b78c5c8c6f5f188a8a2a03b82cff1925913b",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "eobrain",
+    {
+      "earliestCommitDate": "2018-03-22T03:36:03.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/93016ca025eb5aba1f4c4ce7937c827b0e444bc4",
+      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
     "evankanderson",
     {
-      "earliestCommitDate": "2018-03-27T22:14:54.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/4ee69f36ed8272b3c47692d76c6bbbab822ca3f1",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-03-26T16:08:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/94e7da551e4d2924868196152cf6b99ba799d70d",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "inlined",
+    {
+      "earliestCommitDate": "2018-03-28T18:25:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/106dc2c50796156ee9315e3f86cc7d531beb2fa4",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "johnugeorge",
+    {
+      "earliestCommitDate": "2018-03-28T19:01:13.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/ca81d56e2fe7a07b95cd3719ee3a4bda10392bb4",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "rachelmyers",
+    {
+      "earliestCommitDate": "2018-03-29T02:05:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/22dec848e310f803aa36e6473e4f456ae0c27921",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "ultrasaurus",
+    {
+      "earliestCommitDate": "2018-03-29T19:17:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/296cb61c229bfcab21cbbf5e2e057b60c52e0443",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "arvtiwar",
+    {
+      "earliestCommitDate": "2018-03-30T19:01:21.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/5e801fb7d4a42117bbe999183a2c41141103860e",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -112,19 +264,11 @@
     }
   ],
   [
-    "dewitt",
+    "mikehelmick",
     {
-      "earliestCommitDate": "2018-04-20T18:11:39.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build-templates/commit/62773603c3b718d948b74ccf58cd9c6f2a053304",
-      "earliestCommitRepo": "knative/build-templates"
-    }
-  ],
-  [
-    "akyyy",
-    {
-      "earliestCommitDate": "2018-04-20T22:28:09.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/940b26614e68e57adad44ce068a1c9a278ce159a",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-04-03T22:12:59.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/f265fff0ee244dc1454757ddeac7b92b61cb1143",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -133,6 +277,14 @@
       "earliestCommitDate": "2018-04-26T17:44:57.000Z",
       "earliestCommitUrl": "https://github.com/knative/build/commit/206d78f14675ca230c416e0c19d12eef86710f3e",
       "earliestCommitRepo": "knative/build"
+    }
+  ],
+  [
+    "mogar1980",
+    {
+      "earliestCommitDate": "2018-04-27T14:14:20.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/fb6f994c56b4a3cdbe7e518d511b1186857ca0c0",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -160,11 +312,43 @@
     }
   ],
   [
+    "glyn",
+    {
+      "earliestCommitDate": "2018-05-11T16:14:52.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/36a38335436ff252b7158a5a785d15939003d253",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "bkrannich",
     {
       "earliestCommitDate": "2018-05-17T10:58:05.000Z",
       "earliestCommitUrl": "https://github.com/knative/build/commit/813e9b00185bcf5e6277c48cb2f31e7d937b38ad",
       "earliestCommitRepo": "knative/build"
+    }
+  ],
+  [
+    "markfisher",
+    {
+      "earliestCommitDate": "2018-05-30T23:21:10.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/791e1655e0819cc49208a320a4938a8308279bbc",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "jessiezcc",
+    {
+      "earliestCommitDate": "2018-06-04T22:21:12.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/6ec586d5467976e0a47de5becfe879e706279c33",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "rootfs",
+    {
+      "earliestCommitDate": "2018-06-07T16:30:14.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/e091f96a6e3a043ec80f1d7aae666fff88e71a81",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -176,19 +360,11 @@
     }
   ],
   [
-    "rgregg",
+    "markusthoemmes",
     {
-      "earliestCommitDate": "2018-06-12T23:08:15.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/8128e72a01245824999b6d7daf0135b14317f2ed",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "glyn",
-    {
-      "earliestCommitDate": "2018-06-15T19:50:26.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/62595dbc368cafe46274b9ed1da357b4284be658",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-06-13T19:24:17.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/baf4b24a29674d42994fdb9e7cc4c54d43a214c0",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -200,11 +376,27 @@
     }
   ],
   [
-    "rootfs",
+    "shashwathi",
     {
-      "earliestCommitDate": "2018-06-20T15:57:18.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/6c85179fe8a76f8cf049ff3392b5fea640d05df3",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-06-20T18:15:18.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/aa2e0a37146dd5b483f6081ece217edf82a407f7",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "steren",
+    {
+      "earliestCommitDate": "2018-06-20T20:46:18.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/d11a38d857d568c46495f4d00b6c7bb95d646ed9",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "jcrossley3",
+    {
+      "earliestCommitDate": "2018-06-20T22:07:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/b3bc2f40417c8371675d94b4f99946ba94bb2894",
+      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
@@ -216,35 +408,11 @@
     }
   ],
   [
-    "jessiezcc",
-    {
-      "earliestCommitDate": "2018-06-27T01:07:30.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/85e0a10c11fe31bfaa75688aa149b74ee2b692b9",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
     "n3wscott",
     {
-      "earliestCommitDate": "2018-06-27T18:25:21.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/845c5900aec4aaef2664e6ddda70bc3e6846fd8d",
-      "earliestCommitRepo": "knative/build"
-    }
-  ],
-  [
-    "steren",
-    {
-      "earliestCommitDate": "2018-06-28T04:18:50.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/fdfd94d9f063f0f5debe332f5b4daf5ee5b7f0d4",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "markfisher",
-    {
-      "earliestCommitDate": "2018-06-28T17:15:07.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/eff94c8833bb097652f4a9323aba5ed00c4ca89a",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-06-26T22:27:21.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/6a2d72bb72b16b0db0bd35a07b3cae4fb35464ae",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -253,14 +421,6 @@
       "earliestCommitDate": "2018-06-28T23:14:33.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/20f7d305a992067d8779690476066eed7e7ebe36",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "shashwathi",
-    {
-      "earliestCommitDate": "2018-07-03T14:50:20.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/c8ae13ca3fe45dde5072ed91272f582ce70b7cef",
-      "earliestCommitRepo": "knative/build"
     }
   ],
   [
@@ -277,6 +437,14 @@
       "earliestCommitDate": "2018-07-09T13:55:15.000Z",
       "earliestCommitUrl": "https://github.com/knative/build/commit/3ac8a74f183457beb28cc3d8176b48d8b91af260",
       "earliestCommitRepo": "knative/build"
+    }
+  ],
+  [
+    "ericbottard",
+    {
+      "earliestCommitDate": "2018-07-10T16:39:34.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/7dc29a5d6e8a31d2259276959279f9f1dcaf2976",
+      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
@@ -312,26 +480,10 @@
     }
   ],
   [
-    "steuhs",
-    {
-      "earliestCommitDate": "2018-07-11T21:21:34.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/c35770eefab8f982a41ceed6786aac5cd36f2029",
-      "earliestCommitRepo": "knative/build"
-    }
-  ],
-  [
     "PTDelaney",
     {
       "earliestCommitDate": "2018-07-16T22:17:34.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/f4f2c73ef778e5d2be6c416592a6c67370aeec96",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "markusthoemmes",
-    {
-      "earliestCommitDate": "2018-07-17T17:59:31.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/f48344eb90add76d045dc53933e58dbff4ec5034",
       "earliestCommitRepo": "knative/docs"
     }
   ],
@@ -373,6 +525,22 @@
       "earliestCommitDate": "2018-07-20T16:12:33.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/bfc05e671f5233e5358996f6c6900f61dc0056ac",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "srinivashegde86",
+    {
+      "earliestCommitDate": "2018-07-20T16:50:33.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/9778139481ae3bf1f11a467648fb55ae8b4e6c92",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "ericsoderstrom",
+    {
+      "earliestCommitDate": "2018-07-23T00:21:34.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7444d66988c07f876ce5721294bc3deafbcad775",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -432,11 +600,35 @@
     }
   ],
   [
+    "cppforlife",
+    {
+      "earliestCommitDate": "2018-07-25T19:23:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/933792235cae398c3411c1ba12de9e444f4ee853",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "SaaldjorMike",
     {
       "earliestCommitDate": "2018-07-25T20:39:34.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/4a83d87f3f66503c321578e5b327c321cdd3a07b",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "friism",
+    {
+      "earliestCommitDate": "2018-07-26T14:25:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/5f5f41a6af09c319f4d1ec299b2dab30d0628963",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "bbrowning",
+    {
+      "earliestCommitDate": "2018-07-26T14:53:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/973eba591fd8c07038f353096975efe9f7bdcceb",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -480,14 +672,6 @@
     }
   ],
   [
-    "ericbottard",
-    {
-      "earliestCommitDate": "2018-07-30T22:30:37.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/146b7e203b83a5f0d5fd6d29304af6880731f684",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
     "jbowes",
     {
       "earliestCommitDate": "2018-07-30T22:47:37.000Z",
@@ -504,27 +688,27 @@
     }
   ],
   [
+    "yolocs",
+    {
+      "earliestCommitDate": "2018-07-31T19:44:37.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/f583f7a5ce7bfde812a512f67fbbc5e6aa30bfc7",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "markpeek",
+    {
+      "earliestCommitDate": "2018-08-01T05:14:36.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/c316e597c42fbd1b98904b2b58cb9b58c10f8537",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "greghaynes",
     {
       "earliestCommitDate": "2018-08-02T16:40:39.000Z",
       "earliestCommitUrl": "https://github.com/knative/build/commit/28c157416cf797cae91e4da7697b18ad57707699",
       "earliestCommitRepo": "knative/build"
-    }
-  ],
-  [
-    "srinivashegde86",
-    {
-      "earliestCommitDate": "2018-08-03T21:12:10.000Z",
-      "earliestCommitUrl": "https://github.com/knative/test-infra/commit/b817a0e93e790738f09dee6df694702593946180",
-      "earliestCommitRepo": "knative/test-infra"
-    }
-  ],
-  [
-    "mikehelmick",
-    {
-      "earliestCommitDate": "2018-08-08T16:53:12.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/8c2b7f60d81b585b7dd5e86d6fbdec37c6b32669",
-      "earliestCommitRepo": "knative/docs"
     }
   ],
   [
@@ -560,19 +744,27 @@
     }
   ],
   [
-    "abbi-gaurav",
+    "imikushin",
     {
-      "earliestCommitDate": "2018-08-21T16:07:58.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/1b52510c44168a99efe6179c523cd68bdac1e07b",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-08-14T23:20:56.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/319403ff10ad662f91ead63f8a3b3533c92771c7",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
     "nader-ziada",
     {
-      "earliestCommitDate": "2018-08-22T18:52:58.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/483ba952951b9287fbe51e7916f132cd0c175f38",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-08-15T14:57:56.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/b1d14bd5c8cfadd6d8eb15ab2ed94324a1c13c29",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "abbi-gaurav",
+    {
+      "earliestCommitDate": "2018-08-21T16:07:58.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/1b52510c44168a99efe6179c523cd68bdac1e07b",
+      "earliestCommitRepo": "knative/docs"
     }
   ],
   [
@@ -656,6 +848,14 @@
     }
   ],
   [
+    "huang195",
+    {
+      "earliestCommitDate": "2018-09-12T17:56:16.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/d3537c4124e0f3ecca801e4613b42f12575c4920",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "zrss",
     {
       "earliestCommitDate": "2018-09-13T02:54:16.000Z",
@@ -672,11 +872,19 @@
     }
   ],
   [
-    "imikushin",
+    "MissingRoberto",
     {
-      "earliestCommitDate": "2018-09-25T15:34:20.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/9223894e3a756a44a900f8244c509b35fd5f9a4c",
-      "earliestCommitRepo": "knative/pkg"
+      "earliestCommitDate": "2018-09-20T04:34:18.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/1ca2b64e2d7a8c8b41bdc2dad9860115702a6989",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "lichuqiang",
+    {
+      "earliestCommitDate": "2018-09-20T14:50:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/cb783b8c94c79174dd986aef5a71a6102196384d",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -696,6 +904,46 @@
     }
   ],
   [
+    "ralphbean",
+    {
+      "earliestCommitDate": "2018-10-01T07:55:22.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/ce4ef95ed0a4d132b9cda0cd9451557da130e65b",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "sjwoodman",
+    {
+      "earliestCommitDate": "2018-10-03T10:09:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/395ae3c50298b727c15d17801522e2f5905e4358",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "mgencur",
+    {
+      "earliestCommitDate": "2018-10-03T16:17:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/44ccaed1fe1cf1671f5f6770eeb5622cc77f9e81",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "alvinliuwg",
+    {
+      "earliestCommitDate": "2018-10-03T19:05:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/5be20d403ec0db5756554c4b32964dd80ccd973d",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "matzew",
+    {
+      "earliestCommitDate": "2018-10-04T16:19:24.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/a617bb9d4227b232557cdf50713ac2a4b0fab45e",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
     "devlance",
     {
       "earliestCommitDate": "2018-10-04T16:43:24.000Z",
@@ -704,27 +952,19 @@
     }
   ],
   [
-    "jcrossley3",
+    "jchesterpivotal",
     {
-      "earliestCommitDate": "2018-10-05T14:02:25.000Z",
-      "earliestCommitUrl": "https://github.com/knative/build/commit/0d1051de63491da17b6286752c59fd3b8141dc4c",
-      "earliestCommitRepo": "knative/build"
+      "earliestCommitDate": "2018-10-04T19:30:24.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/e17bfdee34ae049b97aae38744dd2e16432ef7c4",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
-    "sjwoodman",
+    "andyliuliming",
     {
-      "earliestCommitDate": "2018-10-08T18:03:28.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/26d3de54de5faef7209de007a649304ae284dacc",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "lichuqiang",
-    {
-      "earliestCommitDate": "2018-10-11T04:20:26.000Z",
-      "earliestCommitUrl": "https://github.com/knative/networking/commit/95bc0479a55ec836fb3595e0af7d7200d689e3dc",
-      "earliestCommitRepo": "knative/networking"
+      "earliestCommitDate": "2018-10-05T16:15:25.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/0fd0e1979fe33026f4963c08018265035f158628",
+      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
@@ -744,6 +984,14 @@
     }
   ],
   [
+    "glikson",
+    {
+      "earliestCommitDate": "2018-10-15T18:09:27.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/1d6fd5df469a6a3dba3c902101b4a1688fd68069",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "kameshsampath",
     {
       "earliestCommitDate": "2018-10-17T08:34:28.000Z",
@@ -760,11 +1008,19 @@
     }
   ],
   [
-    "matzew",
+    "liu-cong",
     {
-      "earliestCommitDate": "2018-10-23T15:21:15.000Z",
-      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-camel/commit/04b2f641a1e255b736cd4abae00553c12ac3b49f",
-      "earliestCommitRepo": "knative-extensions/eventing-camel"
+      "earliestCommitDate": "2018-10-23T04:47:30.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/001f524512d7fdc25d6989903cc84ed380542b23",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "lvjing2",
+    {
+      "earliestCommitDate": "2018-10-23T12:43:30.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/c237685687d5134bc5ab0bcdcbde49fb5a1ca109",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -773,6 +1029,14 @@
       "earliestCommitDate": "2018-10-23T20:30:31.000Z",
       "earliestCommitUrl": "https://github.com/knative/build/commit/b6c8efdae2bdf4fd81286a4435e773188d5aae3d",
       "earliestCommitRepo": "knative/build"
+    }
+  ],
+  [
+    "drnic",
+    {
+      "earliestCommitDate": "2018-10-23T23:26:31.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/0506b90f61317baf8a8f293afd44fdce1b613c32",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -792,14 +1056,6 @@
     }
   ],
   [
-    "mgencur",
-    {
-      "earliestCommitDate": "2018-10-26T16:17:32.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/7528f768d9edf75126e2249eea1a8c049a8f1bfa",
-      "earliestCommitRepo": "knative/pkg"
-    }
-  ],
-  [
     "pzmrzy",
     {
       "earliestCommitDate": "2018-10-26T18:34:32.000Z",
@@ -813,14 +1069,6 @@
       "earliestCommitDate": "2018-10-26T18:52:32.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/6dc822ef81ee46d968f347d6b971e3886eac3400",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "bbrowning",
-    {
-      "earliestCommitDate": "2018-10-30T21:00:34.000Z",
-      "earliestCommitUrl": "https://github.com/knative/test-infra/commit/49a880c71d7327d672643c9e14d7e5a4fbe659a2",
-      "earliestCommitRepo": "knative/test-infra"
     }
   ],
   [
@@ -840,11 +1088,19 @@
     }
   ],
   [
-    "lvjing2",
+    "KevinWang15",
     {
-      "earliestCommitDate": "2018-11-06T03:27:35.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/37b2485245b07db412919fc5496fe6b9734644e0",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-11-06T14:30:36.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/92ffcc906a9d0a490326e1e946b41896fb969400",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "mrmcmuffinz",
+    {
+      "earliestCommitDate": "2018-11-06T14:42:36.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/45746f0524c74cb62ea0313b471db16932ee4106",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -856,6 +1112,14 @@
     }
   ],
   [
+    "srvaroa",
+    {
+      "earliestCommitDate": "2018-11-09T00:29:44.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/870182bf426774607b8447e90dc1ac17e268bb17",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
     "nicolaferraro",
     {
       "earliestCommitDate": "2018-11-09T17:35:44.000Z",
@@ -864,11 +1128,35 @@
     }
   ],
   [
-    "srvaroa",
+    "k4leung4",
     {
-      "earliestCommitDate": "2018-11-10T00:40:44.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/8fcf54f7147d51b0825fc1d14befd88e1355fec5",
-      "earliestCommitRepo": "knative/eventing"
+      "earliestCommitDate": "2018-11-11T15:49:44.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/dc6758ed841e6e47660bcf556477aaeb5423018e",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "adrianludwin",
+    {
+      "earliestCommitDate": "2018-11-12T20:18:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/31b55995e05727975b4655234a81bc122d43225a",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "njuCZ",
+    {
+      "earliestCommitDate": "2018-11-13T14:58:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/65db5116e29f86e86a2028990567814bca337069",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "vvraskin",
+    {
+      "earliestCommitDate": "2018-11-13T21:09:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/8135efb75bbf482de819e89cd7c2556fee2ebe0c",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -877,14 +1165,6 @@
       "earliestCommitDate": "2018-11-13T21:48:28.000Z",
       "earliestCommitUrl": "https://github.com/knative/observability/commit/c6448c07413f5ccb5253dd773ece36558d8a3c9e",
       "earliestCommitRepo": "knative/observability"
-    }
-  ],
-  [
-    "k4leung4",
-    {
-      "earliestCommitDate": "2018-11-14T01:36:45.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/3e52d67e3d58f63f43ad61241b00a9974cb03ecd",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -936,11 +1216,11 @@
     }
   ],
   [
-    "mogar1980",
+    "jeremiaswerner",
     {
-      "earliestCommitDate": "2018-11-27T18:12:23.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/d0fcb6e2bc6759bb96f8fa6af3afd6bfca004ecc",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2018-11-27T12:20:22.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/35454803c7fa1e55744c496e9c62f579922dbcf9",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -981,6 +1261,14 @@
       "earliestCommitDate": "2018-11-29T00:49:23.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/e75b0353a4938ac9359e89b177432a227cb15fa3",
       "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "bradhoekstra",
+    {
+      "earliestCommitDate": "2018-11-29T22:35:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/63e36b8c96eb115013cc66e45d53a0a831a337b1",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1152,11 +1440,11 @@
     }
   ],
   [
-    "vvraskin",
+    "erain",
     {
-      "earliestCommitDate": "2019-01-16T16:47:31.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/7ff023dc3ae6825ac1e2799ae518de664a2d4661",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2019-01-14T19:46:30.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/9a74c670ef9a3890955111a04e8791f03ff84795",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1189,22 +1477,6 @@
       "earliestCommitDate": "2019-01-22T20:44:33.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/7581b06da0f045961081ad286ebeb126fada8527",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "drnic",
-    {
-      "earliestCommitDate": "2019-01-23T23:25:33.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/4a61b75ce612e08459242a338dea6c1365b2273a",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "bradhoekstra",
-    {
-      "earliestCommitDate": "2019-01-25T22:11:34.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/b8c4664801239c61edd10fdda423a6b7c5c3da81",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -1320,11 +1592,27 @@
     }
   ],
   [
+    "hohaichi",
+    {
+      "earliestCommitDate": "2019-02-14T04:38:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/00ee4b27aecf7790df83b2380036ee3c71e05dfc",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "d0ugal",
     {
       "earliestCommitDate": "2019-02-14T17:21:44.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/8ebd07438d87cc52c13c48ec61b2c24995aec7a3",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "brandon-mabey",
+    {
+      "earliestCommitDate": "2019-02-15T03:12:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/60a573451fd1f51591d15140e402b31314401f7d",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1344,11 +1632,11 @@
     }
   ],
   [
-    "friism",
+    "SuperQ",
     {
-      "earliestCommitDate": "2019-02-21T21:22:47.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/e825d14485485169bc9ccfc40fb4121359193027",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2019-02-21T21:33:46.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/2030313268b8c41a56a85ffc606bc88dfdb539fe",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1440,14 +1728,6 @@
     }
   ],
   [
-    "ultrasaurus",
-    {
-      "earliestCommitDate": "2019-03-06T15:13:40.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/d6403ee5700d1485181d9decb7495c5d21213ec6",
-      "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
     "styblope",
     {
       "earliestCommitDate": "2019-03-06T21:42:40.000Z",
@@ -1493,6 +1773,22 @@
       "earliestCommitDate": "2019-03-07T16:56:41.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/b88dddbd89c021beeb3f6d17e0bb870b5ce9c957",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "wtam2018",
+    {
+      "earliestCommitDate": "2019-03-07T17:20:42.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/af25fa3480a4dc428350811fc36b77c5dbad7ce1",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "joshrider",
+    {
+      "earliestCommitDate": "2019-03-08T15:33:41.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/334b8dbbc8df2ec4a0b487827861e0b46decb33d",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1576,6 +1872,14 @@
     }
   ],
   [
+    "mmercedes",
+    {
+      "earliestCommitDate": "2019-03-17T20:32:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/a3f8b5f63f5baab6341244708b5894a1839cada0",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "RPing",
     {
       "earliestCommitDate": "2019-03-18T15:25:46.000Z",
@@ -1600,14 +1904,6 @@
     }
   ],
   [
-    "erain",
-    {
-      "earliestCommitDate": "2019-03-20T17:11:46.000Z",
-      "earliestCommitUrl": "https://github.com/knative/test-infra/commit/7b67483ec6c14a5943104cb1554e0c6cfe6c9770",
-      "earliestCommitRepo": "knative/test-infra"
-    }
-  ],
-  [
     "chizhg",
     {
       "earliestCommitDate": "2019-03-21T21:38:47.000Z",
@@ -1621,6 +1917,14 @@
       "earliestCommitDate": "2019-03-25T22:50:50.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/2fdc4bbed924265f61e538d15bf1461b5ce2e82a",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "trshafer",
+    {
+      "earliestCommitDate": "2019-03-27T03:10:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/a1a237cb7d0122a90f1927c3c58ff4993da329f2",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1648,14 +1952,6 @@
     }
   ],
   [
-    "trshafer",
-    {
-      "earliestCommitDate": "2019-03-28T22:23:53.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/2a212e9b6f7b4d2d2da3bbc20ff850b5e125f2d1",
-      "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
     "lberk",
     {
       "earliestCommitDate": "2019-03-29T18:46:54.000Z",
@@ -1672,11 +1968,11 @@
     }
   ],
   [
-    "hohaichi",
+    "fatkun",
     {
-      "earliestCommitDate": "2019-04-02T20:51:55.000Z",
-      "earliestCommitUrl": "https://github.com/knative/test-infra/commit/0125a23e5d1edb5e2b6f27b9b5a30a3965d6319e",
-      "earliestCommitRepo": "knative/test-infra"
+      "earliestCommitDate": "2019-04-03T12:22:55.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/d908a3d578071b412172bfad09360fb6ed711404",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1696,19 +1992,19 @@
     }
   ],
   [
-    "wtam2018",
-    {
-      "earliestCommitDate": "2019-04-09T04:54:55.000Z",
-      "earliestCommitUrl": "https://github.com/knative/serving-operator/commit/c7dc399f64c261f2361919648f10b8dfcaee16c7",
-      "earliestCommitRepo": "knative/serving-operator"
-    }
-  ],
-  [
     "ciaranRoche",
     {
       "earliestCommitDate": "2019-04-09T23:04:58.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/f62c8d0a67d1ea7563e5cc41ed0fe93dd37595b1",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "andrew-su",
+    {
+      "earliestCommitDate": "2019-04-10T04:19:58.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/faf1175c39827dec2ebc058ab03fef236008a542",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1741,6 +2037,14 @@
       "earliestCommitDate": "2019-04-11T20:34:00.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/42cf75ff189399128dc8aa0b0b6c48e316a06157",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "kun-song",
+    {
+      "earliestCommitDate": "2019-04-15T14:50:12.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/734013810f1e340ec4d0f36341c54da2370ba5d0",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1816,6 +2120,14 @@
     }
   ],
   [
+    "objectiser",
+    {
+      "earliestCommitDate": "2019-04-19T05:38:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7135c5e584d605a98a5a36f9a93423f374a110eb",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "paassdc",
     {
       "earliestCommitDate": "2019-04-19T18:18:27.000Z",
@@ -1832,6 +2144,14 @@
     }
   ],
   [
+    "coryrc",
+    {
+      "earliestCommitDate": "2019-04-23T23:07:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/4293ff764e6d41cd220f8ca35a10dd6bec045c40",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "dtimm",
     {
       "earliestCommitDate": "2019-04-26T19:52:29.000Z",
@@ -1845,14 +2165,6 @@
       "earliestCommitDate": "2019-04-29T11:46:31.000Z",
       "earliestCommitUrl": "https://github.com/knative-extensions/net-istio/commit/3a2e61aae0cd73a3e43f306f2db0a23f82228f11",
       "earliestCommitRepo": "knative-extensions/net-istio"
-    }
-  ],
-  [
-    "objectiser",
-    {
-      "earliestCommitDate": "2019-04-29T19:00:32.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/0f93e2b513b884d1c0e957184e81f73dcbb54067",
-      "earliestCommitRepo": "knative/docs"
     }
   ],
   [
@@ -1876,14 +2188,6 @@
     {
       "earliestCommitDate": "2019-05-07T14:53:38.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/8f60450725db53a2e60757a906fed400ec4df629",
-      "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
-    "kun-song",
-    {
-      "earliestCommitDate": "2019-05-07T17:15:37.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/e647e96193e8af18008bb41d0a80b648fcad4721",
       "earliestCommitRepo": "knative/eventing"
     }
   ],
@@ -1920,11 +2224,27 @@
     }
   ],
   [
+    "JRBANCEL",
+    {
+      "earliestCommitDate": "2019-05-15T07:12:32.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/93f4c742e5011611f0bd45592e5d81297e849a07",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "TrevorFarrelly",
     {
       "earliestCommitDate": "2019-05-17T22:39:15.000Z",
       "earliestCommitUrl": "https://github.com/knative/test-infra/commit/2aecb26f78a367f8954355034e68d4126899b6af",
       "earliestCommitRepo": "knative/test-infra"
+    }
+  ],
+  [
+    "mysterytony",
+    {
+      "earliestCommitDate": "2019-05-17T23:59:15.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/982952af0abd2ffb87fcdb93570bf170e4647964",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -1976,6 +2296,22 @@
     }
   ],
   [
+    "raushan2016",
+    {
+      "earliestCommitDate": "2019-06-04T04:52:37.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/0d106c53694e55457d492f9b1c791cc355c32287",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "ssmall",
+    {
+      "earliestCommitDate": "2019-06-04T14:22:39.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/495aa670567b286f2a17fe9913a31165538e7a37",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "aliok",
     {
       "earliestCommitDate": "2019-06-04T14:41:42.000Z",
@@ -2016,14 +2352,6 @@
     }
   ],
   [
-    "JRBANCEL",
-    {
-      "earliestCommitDate": "2019-06-13T17:32:44.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/473d617383d4bc2d3332bda4e1ea7c427d3229a0",
-      "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
     "code128",
     {
       "earliestCommitDate": "2019-06-13T21:26:43.000Z",
@@ -2032,19 +2360,11 @@
     }
   ],
   [
-    "coryrc",
+    "JiniousChoi",
     {
-      "earliestCommitDate": "2019-06-14T23:31:43.000Z",
-      "earliestCommitUrl": "https://github.com/knative/test-infra/commit/53e0befa1eb93ddcf782d88862ef4c213e5dbb01",
-      "earliestCommitRepo": "knative/test-infra"
-    }
-  ],
-  [
-    "ian-mi",
-    {
-      "earliestCommitDate": "2019-06-15T02:12:44.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/746f085ea3005a04e7fe61874e29debdbbf360d6",
-      "earliestCommitRepo": "knative/eventing"
+      "earliestCommitDate": "2019-06-14T07:25:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7ee8dab84113b0b9b388a51b6875e87f844fa5bf",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -2088,6 +2408,14 @@
     }
   ],
   [
+    "tbarrella",
+    {
+      "earliestCommitDate": "2019-07-01T16:25:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/7ca25646a186a90ab630aa502be31aaeb72d932b",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "ameyer-pivotal",
     {
       "earliestCommitDate": "2019-07-01T20:13:19.000Z",
@@ -2101,22 +2429,6 @@
       "earliestCommitDate": "2019-07-01T21:22:19.000Z",
       "earliestCommitUrl": "https://github.com/knative/test-infra/commit/90ca199736291c359540e75465bb449aa451ed47",
       "earliestCommitRepo": "knative/test-infra"
-    }
-  ],
-  [
-    "jchesterpivotal",
-    {
-      "earliestCommitDate": "2019-07-03T21:42:32.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/c9bcf7e03fb535c28eae2b5ec1cf70e9363e32a7",
-      "earliestCommitRepo": "knative/pkg"
-    }
-  ],
-  [
-    "andrew-su",
-    {
-      "earliestCommitDate": "2019-07-05T18:48:32.000Z",
-      "earliestCommitUrl": "https://github.com/knative/networking/commit/380f2cc7bb6ecdc48ec64de41819fa9e36f2d1de",
-      "earliestCommitRepo": "knative/networking"
     }
   ],
   [
@@ -2160,6 +2472,14 @@
     }
   ],
   [
+    "yu2003w",
+    {
+      "earliestCommitDate": "2019-07-15T18:37:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/85c2aff4010f4f6ed1590440f64104befeae9239",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "iNoahNothing",
     {
       "earliestCommitDate": "2019-07-15T22:03:27.000Z",
@@ -2173,14 +2493,6 @@
       "earliestCommitDate": "2019-07-17T15:05:28.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/8cafbb432d5700edbd9332f3846900361a5aa071",
       "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
-    "fatkun",
-    {
-      "earliestCommitDate": "2019-07-17T21:26:29.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/a3e4b8d9f7bd4bc96c266f751762e194d5efe98f",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -2200,19 +2512,19 @@
     }
   ],
   [
+    "bibryam",
+    {
+      "earliestCommitDate": "2019-07-24T15:25:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/a1b2fd6099d2ec3ff7ac77ada2ddfe84d2ef0065",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "alexander-alvarez",
     {
       "earliestCommitDate": "2019-07-24T18:08:36.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/9315461ea647d2270b51548617c5bf7c7eef832a",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "johnugeorge",
-    {
-      "earliestCommitDate": "2019-07-24T21:22:35.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/86f49e59e0c092a7db93de15a219322c46cd854c",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -2365,6 +2677,14 @@
       "earliestCommitDate": "2019-08-23T20:21:12.000Z",
       "earliestCommitUrl": "https://github.com/knative-extensions/net-istio/commit/348a6e38b699b5cff3a48032cf8cac777d1ad47d",
       "earliestCommitRepo": "knative-extensions/net-istio"
+    }
+  ],
+  [
+    "skaslev",
+    {
+      "earliestCommitDate": "2019-08-23T21:02:12.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/35bcf3315a0db0b6f1cbf5f7d425e349df130721",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -2536,6 +2856,14 @@
     }
   ],
   [
+    "hotjunfeng",
+    {
+      "earliestCommitDate": "2019-09-28T00:18:42.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/3174fcedbabd3fb3e1e5bde3f2188049ed38e796",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "WalterHub",
     {
       "earliestCommitDate": "2019-10-01T16:33:12.000Z",
@@ -2549,14 +2877,6 @@
       "earliestCommitDate": "2019-10-02T01:37:03.000Z",
       "earliestCommitUrl": "https://github.com/knative-extensions/eventing-camel/commit/b1e74a11cf82697190295a722d4060e385ab6b08",
       "earliestCommitRepo": "knative-extensions/eventing-camel"
-    }
-  ],
-  [
-    "yolocs",
-    {
-      "earliestCommitDate": "2019-10-08T21:37:37.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/375c10308ca486c16eaa9867294f37a42467dcd2",
-      "earliestCommitRepo": "knative/docs"
     }
   ],
   [
@@ -2632,6 +2952,22 @@
     }
   ],
   [
+    "drpmma",
+    {
+      "earliestCommitDate": "2019-11-13T15:49:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/0e6bbb10c966a89a5e322ec269ad4db1e031a841",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "iamejboy",
+    {
+      "earliestCommitDate": "2019-11-15T15:11:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/6e247eb59e88197666cc7aec27f469a7b6d0696e",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "nanjj",
     {
       "earliestCommitDate": "2019-11-19T07:19:07.000Z",
@@ -2645,14 +2981,6 @@
       "earliestCommitDate": "2019-11-20T15:29:08.000Z",
       "earliestCommitUrl": "https://github.com/knative-extensions/scaling-group/commit/cf148fcd2e42445151dcc40614bddfef5850a3b7",
       "earliestCommitRepo": "knative-extensions/scaling-group"
-    }
-  ],
-  [
-    "iamejboy",
-    {
-      "earliestCommitDate": "2019-11-21T09:10:09.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/2f69f742bbb3f96b2f8c6b822f1df881aacc7bac",
-      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
@@ -2736,14 +3064,6 @@
     }
   ],
   [
-    "liu-cong",
-    {
-      "earliestCommitDate": "2020-01-08T15:51:53.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/37eaeaa40e7b3a272aff631b7722906b792cb405",
-      "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
     "dsimansk",
     {
       "earliestCommitDate": "2020-01-14T16:11:05.000Z",
@@ -2757,6 +3077,14 @@
       "earliestCommitDate": "2020-01-17T07:58:03.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/c0f6fee24269c651e27496105f0b00bb6d28666a",
       "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "julz",
+    {
+      "earliestCommitDate": "2020-01-20T14:52:04.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/ef944e45df26ae24738a45a4af80d4fd6ddbf155",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -2856,6 +3184,14 @@
     }
   ],
   [
+    "sravankumar777",
+    {
+      "earliestCommitDate": "2020-02-06T06:15:31.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/e7ba1d737bce8270f09bd94231afce25ff695297",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "peterfeifanchen",
     {
       "earliestCommitDate": "2020-02-06T19:02:33.000Z",
@@ -2904,11 +3240,27 @@
     }
   ],
   [
+    "lkingland",
+    {
+      "earliestCommitDate": "2020-03-04T14:36:41.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/86cdedec91b116cfacaa22ed5a616541720185de",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
     "knative-prow-robot",
     {
       "earliestCommitDate": "2020-03-04T17:58:53.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/4d1c20b9c3a9c0d4987cba8ce8db4f6547bf631d",
       "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "whaught",
+    {
+      "earliestCommitDate": "2020-03-06T20:10:27.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/6fe18c258a736e67f50257da03fb1065aa4467d2",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -2941,6 +3293,14 @@
       "earliestCommitDate": "2020-03-13T22:37:29.000Z",
       "earliestCommitUrl": "https://github.com/knative-extensions/net-istio/commit/100d26c70393175741d72f0eb58dc1899645024a",
       "earliestCommitRepo": "knative-extensions/net-istio"
+    }
+  ],
+  [
+    "markito",
+    {
+      "earliestCommitDate": "2020-03-17T14:09:31.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/54766747d729079cb0c08cd197947af8f76dc42c",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -2992,6 +3352,14 @@
     }
   ],
   [
+    "shreejad",
+    {
+      "earliestCommitDate": "2020-04-02T02:51:17.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/33e843e36ca13c6699508d55e988d7f3d1565644",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "dungahk",
     {
       "earliestCommitDate": "2020-04-04T14:48:19.000Z",
@@ -3005,14 +3373,6 @@
       "earliestCommitDate": "2020-04-06T18:11:19.000Z",
       "earliestCommitUrl": "https://github.com/knative/community/commit/9d7a4260b0c8239fef13973c071941b4b05cd03c",
       "earliestCommitRepo": "knative/community"
-    }
-  ],
-  [
-    "whaught",
-    {
-      "earliestCommitDate": "2020-04-06T19:22:19.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/d22642244e45bfa1dc59919a4fd4867cc7f27a48",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -3088,11 +3448,11 @@
     }
   ],
   [
-    "isdal",
+    "jpreese",
     {
-      "earliestCommitDate": "2020-05-15T18:07:02.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/618e0cd9c2c6605ab723ebce7c62b76164ee54b8",
-      "earliestCommitRepo": "knative/docs"
+      "earliestCommitDate": "2020-05-08T05:00:44.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/3a99f15117ae5bbc36236957324aae91c3f61d87",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -3104,14 +3464,6 @@
     }
   ],
   [
-    "jpreese",
-    {
-      "earliestCommitDate": "2020-05-20T22:31:57.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/166fc6cd13bef046a39b167772d66992c8190906",
-      "earliestCommitRepo": "knative/eventing"
-    }
-  ],
-  [
     "csantanapr",
     {
       "earliestCommitDate": "2020-05-22T18:30:58.000Z",
@@ -3120,19 +3472,19 @@
     }
   ],
   [
+    "padlar",
+    {
+      "earliestCommitDate": "2020-05-27T11:36:59.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/fd494b3d37a7ab1879c79d62d16b8b03d4357e21",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "xiangshen-dk",
     {
       "earliestCommitDate": "2020-05-27T21:05:59.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/ca0a1b32da4df27a043ebdbd0bd032d1723bbadb",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "julz",
-    {
-      "earliestCommitDate": "2020-05-28T17:23:01.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/6eb9fa1546b816131a1ff61575f6305db85a8711",
-      "earliestCommitRepo": "knative/pkg"
     }
   ],
   [
@@ -3192,6 +3544,14 @@
     }
   ],
   [
+    "rafaeltello",
+    {
+      "earliestCommitDate": "2020-06-04T21:13:18.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/3a36364490bfb98b295399b8ff951d3d313429a9",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "shuuji3",
     {
       "earliestCommitDate": "2020-06-05T22:37:18.000Z",
@@ -3240,6 +3600,14 @@
     }
   ],
   [
+    "igorbelianski",
+    {
+      "earliestCommitDate": "2020-06-15T07:07:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/c5c80fa23c1c91c1cb9e491f09454936b9bef038",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "feluxe",
     {
       "earliestCommitDate": "2020-06-15T14:38:23.000Z",
@@ -3253,6 +3621,14 @@
       "earliestCommitDate": "2020-06-15T17:51:24.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/5bca697dea902f40d10fbfefdce6a06e2156f0a5",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "mundaym",
+    {
+      "earliestCommitDate": "2020-06-16T16:50:24.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/2b325caf0a8e385a3c628451d1bc3d8bacf5c331",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -3312,11 +3688,35 @@
     }
   ],
   [
+    "skonto",
+    {
+      "earliestCommitDate": "2020-06-28T22:20:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/932335cce316b2baf8185bd65bf7c55926079dd1",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "ohbus",
+    {
+      "earliestCommitDate": "2020-06-29T08:27:29.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/5953c28bd2efd03f17100cc3f362a04619c09549",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
     "wutongjie23hao",
     {
       "earliestCommitDate": "2020-06-30T16:16:29.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/2894d24ceb0226d32c14852819a876237b23ca65",
       "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "Alfusainey",
+    {
+      "earliestCommitDate": "2020-07-02T13:01:41.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/f02d452c824a8c4f215c71677326a1a98567551a",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
     }
   ],
   [
@@ -3333,6 +3733,14 @@
       "earliestCommitDate": "2020-07-06T09:07:43.000Z",
       "earliestCommitUrl": "https://github.com/knative/client-contrib/commit/59a725a934187e433c0b229127658b2f1b81c17d",
       "earliestCommitRepo": "knative/client-contrib"
+    }
+  ],
+  [
+    "theofpa",
+    {
+      "earliestCommitDate": "2020-07-06T18:02:44.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/fc2b30329743342e5f4b8c3c308c2b382a980cfc",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -3376,6 +3784,22 @@
     }
   ],
   [
+    "lance",
+    {
+      "earliestCommitDate": "2020-07-09T19:05:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/5d6e2d3c8c018066734a34d6de9175b9e11326c1",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
+    "alecholmes",
+    {
+      "earliestCommitDate": "2020-07-10T09:04:18.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/c35eec7832b726c1ece751f308ea8c3e4a732d4d",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "alvaroaleman",
     {
       "earliestCommitDate": "2020-07-11T00:49:37.000Z",
@@ -3405,6 +3829,14 @@
       "earliestCommitDate": "2020-07-14T13:04:19.000Z",
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/5c276d0d76e25435c10bf35a90310a7f5d717af5",
       "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "emaildanwilson",
+    {
+      "earliestCommitDate": "2020-07-17T22:41:33.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/ad1aafd077491a876ee45449d770c280e1afc077",
+      "earliestCommitRepo": "knative/serving"
     }
   ],
   [
@@ -3456,6 +3888,14 @@
     }
   ],
   [
+    "cdlliuy",
+    {
+      "earliestCommitDate": "2020-08-05T02:33:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/ec9ae728776423cbdef54a1a7ea14c0055ed1d39",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
     "gosoon",
     {
       "earliestCommitDate": "2020-08-05T09:49:28.000Z",
@@ -3464,27 +3904,11 @@
     }
   ],
   [
-    "skonto",
-    {
-      "earliestCommitDate": "2020-08-05T16:19:28.000Z",
-      "earliestCommitUrl": "https://github.com/knative/pkg/commit/23ef76f9864fba241d412a8d71d5a9a3c15a03f9",
-      "earliestCommitRepo": "knative/pkg"
-    }
-  ],
-  [
     "priyshar01",
     {
       "earliestCommitDate": "2020-08-07T09:11:28.000Z",
       "earliestCommitUrl": "https://github.com/knative/client/commit/fb9259b41c86ddd4382ffce0fd4f0a492b3939ad",
       "earliestCommitRepo": "knative/client"
-    }
-  ],
-  [
-    "rafaeltello",
-    {
-      "earliestCommitDate": "2020-08-07T23:24:29.000Z",
-      "earliestCommitUrl": "https://github.com/knative/networking/commit/593a849a1342ed4ce5498bf271dc39e3567bca03",
-      "earliestCommitRepo": "knative/networking"
     }
   ],
   [
@@ -3568,22 +3992,6 @@
     }
   ],
   [
-    "shreejad",
-    {
-      "earliestCommitDate": "2020-09-15T16:18:42.000Z",
-      "earliestCommitUrl": "https://github.com/knative/networking/commit/348082e83e8a9dc1b69a34e4f1b7d12d154db1f5",
-      "earliestCommitRepo": "knative/networking"
-    }
-  ],
-  [
-    "igorbelianski",
-    {
-      "earliestCommitDate": "2020-09-17T03:53:42.000Z",
-      "earliestCommitUrl": "https://github.com/knative/networking/commit/994d214cdf82ef2f135bc864651b70bb2ef92821",
-      "earliestCommitRepo": "knative/networking"
-    }
-  ],
-  [
     "rccrdpccl",
     {
       "earliestCommitDate": "2020-09-18T22:26:45.000Z",
@@ -3613,6 +4021,14 @@
       "earliestCommitDate": "2020-09-23T14:26:40.000Z",
       "earliestCommitUrl": "https://github.com/knative/community/commit/1b610434373e6610ef1c56d0e84d8e01c0339cb0",
       "earliestCommitRepo": "knative/community"
+    }
+  ],
+  [
+    "github-actions[bot]",
+    {
+      "earliestCommitDate": "2020-09-24T18:33:31.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/40962fc6454672924bbc7e26ddb9885e59ab7984",
+      "earliestCommitRepo": "knative/func"
     }
   ],
   [
@@ -3669,22 +4085,6 @@
       "earliestCommitDate": "2020-10-13T04:24:30.000Z",
       "earliestCommitUrl": "https://github.com/knative/client/commit/4939c5ede3415cf4b7b0c19c4b41762b2739c441",
       "earliestCommitRepo": "knative/client"
-    }
-  ],
-  [
-    "cdlliuy",
-    {
-      "earliestCommitDate": "2020-10-19T16:33:59.000Z",
-      "earliestCommitUrl": "https://github.com/knative/community/commit/5bcff6496eefda1bff98c81e44fe4078a88d15f1",
-      "earliestCommitRepo": "knative/community"
-    }
-  ],
-  [
-    "sravankumar777",
-    {
-      "earliestCommitDate": "2020-10-20T16:04:58.000Z",
-      "earliestCommitUrl": "https://github.com/knative/eventing/commit/aeecfb6c57a159f836aa8a624db4b3842decb137",
-      "earliestCommitRepo": "knative/eventing"
     }
   ],
   [
@@ -3749,14 +4149,6 @@
       "earliestCommitDate": "2020-11-02T17:46:35.000Z",
       "earliestCommitUrl": "https://github.com/knative/serving/commit/63bcf2edb4d6ca4048c916933f685629613d9725",
       "earliestCommitRepo": "knative/serving"
-    }
-  ],
-  [
-    "lance",
-    {
-      "earliestCommitDate": "2020-11-04T17:09:04.000Z",
-      "earliestCommitUrl": "https://github.com/knative/docs/commit/a615243372de4ded3909907f986d82f7d1cbcce9",
-      "earliestCommitRepo": "knative/docs"
     }
   ],
   [
@@ -3920,11 +4312,11 @@
     }
   ],
   [
-    "emaildanwilson",
+    "OmarMorales71",
     {
-      "earliestCommitDate": "2020-12-15T14:33:43.000Z",
-      "earliestCommitUrl": "https://github.com/knative/serving/commit/e30a309ecca23afb9f4b47249f613668f0bacc47",
-      "earliestCommitRepo": "knative/serving"
+      "earliestCommitDate": "2020-12-16T15:33:58.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/fdd9bc13425e08866316f843a88c005511399f3d",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
     }
   ],
   [
@@ -4224,6 +4616,14 @@
     }
   ],
   [
+    "jrangelramos",
+    {
+      "earliestCommitDate": "2021-04-30T13:23:52.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/8ab0ba243ae4c40867a2426b2ca965559a03cd53",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
     "06chaynes",
     {
       "earliestCommitDate": "2021-05-01T00:10:56.000Z",
@@ -4304,6 +4704,14 @@
     }
   ],
   [
+    "helio-frota",
+    {
+      "earliestCommitDate": "2021-05-18T12:48:34.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/ea0a75a7ccb6d00b8c859ff4cd311ad33fb8dbc3",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
     "kmarquardsen",
     {
       "earliestCommitDate": "2021-05-20T18:53:17.000Z",
@@ -4365,6 +4773,14 @@
       "earliestCommitDate": "2021-06-07T07:16:48.000Z",
       "earliestCommitUrl": "https://github.com/knative/community/commit/873ca30b8ad2fa51e136222cb5f9b296e7860bd1",
       "earliestCommitRepo": "knative/community"
+    }
+  ],
+  [
+    "lholmquist",
+    {
+      "earliestCommitDate": "2021-06-09T04:13:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/b3a6bdf39875604cd7a7bf78e78329800783f06f",
+      "earliestCommitRepo": "knative/func"
     }
   ],
   [
@@ -4448,6 +4864,14 @@
     }
   ],
   [
+    "dejanb",
+    {
+      "earliestCommitDate": "2021-07-23T14:02:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/a08b843a9c2639d6b237f4248341b35f3bd8b954",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
     "davidlanouette",
     {
       "earliestCommitDate": "2021-07-26T16:18:16.000Z",
@@ -4520,22 +4944,6 @@
     }
   ],
   [
-    "lkingland",
-    {
-      "earliestCommitDate": "2021-08-24T17:41:24.000Z",
-      "earliestCommitUrl": "https://github.com/knative/func/commit/3f56a8fd7a66b923294043bcaa68ad59b1228831",
-      "earliestCommitRepo": "knative/func"
-    }
-  ],
-  [
-    "jrangelramos",
-    {
-      "earliestCommitDate": "2021-08-25T20:14:31.000Z",
-      "earliestCommitUrl": "https://github.com/knative/func/commit/5f843f09f6e3c02d070e5bb036a41543fd6813e3",
-      "earliestCommitRepo": "knative/func"
-    }
-  ],
-  [
     "huija",
     {
       "earliestCommitDate": "2021-08-27T14:19:38.000Z",
@@ -4605,14 +5013,6 @@
       "earliestCommitDate": "2021-09-16T11:33:41.000Z",
       "earliestCommitUrl": "https://github.com/knative/docs/commit/444023319297d1673159925309d952c15d76f66b",
       "earliestCommitRepo": "knative/docs"
-    }
-  ],
-  [
-    "github-actions[bot]",
-    {
-      "earliestCommitDate": "2021-09-16T17:32:09.000Z",
-      "earliestCommitUrl": "https://github.com/knative/func/commit/745d6a4253986b95a09ef81cb23dfcad15abad0d",
-      "earliestCommitRepo": "knative/func"
     }
   ],
   [
@@ -5045,14 +5445,6 @@
       "earliestCommitDate": "2022-02-23T03:31:38.000Z",
       "earliestCommitUrl": "https://github.com/knative/serving/commit/7e1dd362b4a18e65ee8f8b81faf7f6dc2568162d",
       "earliestCommitRepo": "knative/serving"
-    }
-  ],
-  [
-    "helio-frota",
-    {
-      "earliestCommitDate": "2022-02-23T15:25:39.000Z",
-      "earliestCommitUrl": "https://github.com/knative/func/commit/efc3b208cb5ab76f1eb73801501bcbfc23f16928",
-      "earliestCommitRepo": "knative/func"
     }
   ],
   [
