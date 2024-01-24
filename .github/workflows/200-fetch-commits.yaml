@@ -23,7 +23,7 @@ env:
   ACTIONS_RUNNER_DEBUG: ${{ secrets.ACTIONS_RUNNER_DEBUG }}
   # cuttlecat related
   SEARCH_DATA_DIRECTORY: ${{ github.workspace }}/200-fetch-commits
-  INTERVAL_CAP: 50
+  INTERVAL_CAP: 7
   RENEW_PERIOD_IN_DAYS: 30
   ALL_TIME: "true"
 
@@ -35,14 +35,13 @@ jobs:
     steps:
       - name: Set env ENABLE_DEBUG_LOGGING
         run: |
-          #if [[ "${ACTIONS_RUNNER_DEBUG:-false}" == true ]]; then
-          #  echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
-          #else
-          #  echo "LOG_LEVEL=info" >> "$GITHUB_ENV"
-          #fi
-          echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
+          if [[ "${ACTIONS_RUNNER_DEBUG:-false}" == true ]]; then
+            echo "LOG_LEVEL=debug" >> "$GITHUB_ENV"
+          else
+            echo "LOG_LEVEL=info" >> "$GITHUB_ENV"
+          fi
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           # TODO: use the nvmrc file
           node-version: 'lts/hydrogen'
@@ -96,8 +95,7 @@ jobs:
             --data-directory="${{ env.SEARCH_DATA_DIRECTORY }}" \
             --interval-cap="${{ env.INTERVAL_CAP }}" \
             --renew-period-in-days="${{ env.RENEW_PERIOD_IN_DAYS }}" \
-            --log-level="${{ env.LOG_LEVEL }}" \
-            --max-run-time-in-minutes=1
+            --log-level="${{ env.LOG_LEVEL }}"
           
           echo "Starting 250-build-contributor-list"
           node "${{ github.workspace }}/250-build-contributor-list.js"
