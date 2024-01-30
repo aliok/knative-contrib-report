@@ -7014,5 +7014,61 @@
       "earliestCommitUrl": "https://github.com/knative/docs/commit/8e998cf09026a0e7ca9122fef05d91ded440bab3",
       "earliestCommitRepo": "knative/docs"
     }
+  ],
+  [
+    "yanggangtony",
+    {
+      "earliestCommitDate": "2023-12-07T15:43:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/operator/commit/cfea599a9a028e20816bbbdbac1dd496be22f204",
+      "earliestCommitRepo": "knative/operator"
+    }
+  ],
+  [
+    "cdalar",
+    {
+      "earliestCommitDate": "2023-12-07T19:32:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/930a91b33e5c22b62b7affb5d9cb2301a7f4e078",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "Skeen",
+    {
+      "earliestCommitDate": "2023-12-10T11:34:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-rabbitmq/commit/ee3c8600b47e51c52056353d895bc65246ade5e8",
+      "earliestCommitRepo": "knative-extensions/eventing-rabbitmq"
+    }
+  ],
+  [
+    "zainabhusain227",
+    {
+      "earliestCommitDate": "2023-12-14T05:58:36.000Z",
+      "earliestCommitUrl": "https://github.com/knative/ux/commit/98f6cda9ed4507cd7c28f68dc0ab4833c17c08da",
+      "earliestCommitRepo": "knative/ux"
+    }
+  ],
+  [
+    "tikr7",
+    {
+      "earliestCommitDate": "2023-12-19T21:18:09.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/3e08c959ddaff6fece3c80bb6c48cb17066b4756",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "sharmaansh21",
+    {
+      "earliestCommitDate": "2023-12-20T13:17:37.000Z",
+      "earliestCommitUrl": "https://github.com/knative/client/commit/70805a67db57e5902613562cb893d343d23e5c83",
+      "earliestCommitRepo": "knative/client"
+    }
+  ],
+  [
+    "shikharish",
+    {
+      "earliestCommitDate": "2023-12-22T20:04:48.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/0ed108c468be215c796a1b9faff20ff12aca0d6c",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
   ]
 ]
