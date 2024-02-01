@@ -7,7 +7,7 @@ permissions:
 on:
   # run periodically
   schedule:
-    - cron: '1,21,41 * * * *'   # at :01, :21, :41 past every hour every day
+    - cron: '10 0 * * 2'   # at 00:10 on Tuesday, once a week
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -24,7 +24,7 @@ env:
   # cuttlecat related
   SEARCH_DATA_DIRECTORY: ${{ github.workspace }}/200-fetch-commits
   INTERVAL_CAP: 7
-  RENEW_PERIOD_IN_DAYS: 1
+  RENEW_PERIOD_IN_DAYS: 15
   ALL_TIME: "false"
 
 jobs:
