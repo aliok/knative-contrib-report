@@ -7070,5 +7070,109 @@
       "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/0ed108c468be215c796a1b9faff20ff12aca0d6c",
       "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
     }
+  ],
+  [
+    "SD-13",
+    {
+      "earliestCommitDate": "2024-01-02T20:23:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/6dadadcda29db9ecd6cab90820ddc05049fb5099",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "professorabhay",
+    {
+      "earliestCommitDate": "2024-01-04T13:44:24.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/777922060214df6ba80eb598cdd0c6abb811da91",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "pawarpranav83",
+    {
+      "earliestCommitDate": "2024-01-12T14:19:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/c7520cccd86eb21acea197a9d91b67a70fe8ce36",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "octonawish-akcodes",
+    {
+      "earliestCommitDate": "2024-01-15T08:54:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/42af160c3cfc244e26fa7bcd5db2c670ebdcf326",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "jacksgt",
+    {
+      "earliestCommitDate": "2024-01-15T20:06:01.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/1e2faa3b3745f9e3f5a4786ae16e755e9bf90e66",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "lou-lan",
+    {
+      "earliestCommitDate": "2024-01-15T21:10:40.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/752314ea57cbb37ea1d81606718c94e3d0a712c0",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "Zazzscoot",
+    {
+      "earliestCommitDate": "2024-01-18T15:54:14.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/fb9be2b67bf6c616792ead891916cbcae5c980c7",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "sadath-12",
+    {
+      "earliestCommitDate": "2024-01-22T16:41:09.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/44ff98b38212a812337725924a7fcd58be526a86",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "joshualyon",
+    {
+      "earliestCommitDate": "2024-01-25T04:53:22.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/kn-plugin-operator/commit/cdc6654961bd077d1506ccb77473f35ca44b9129",
+      "earliestCommitRepo": "knative-extensions/kn-plugin-operator"
+    }
+  ],
+  [
+    "lysliu",
+    {
+      "earliestCommitDate": "2024-01-26T08:10:46.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/c14943c4c31f09371457ddf4fccddac97e00e578",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "prashantrewar",
+    {
+      "earliestCommitDate": "2024-01-30T15:30:47.000Z",
+      "earliestCommitUrl": "https://github.com/knative/release/commit/ca423a01335d4e82a4dc95edd62c8b2c2f750bc6",
+      "earliestCommitRepo": "knative/release"
+    }
+  ],
+  [
+    "yijie-04",
+    {
+      "earliestCommitDate": "2024-01-30T15:38:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/ff52881fc57db975af4ceefe589f50dcd7a01e92",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "Indrranil",
+    {
+      "earliestCommitDate": "2024-01-31T07:21:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/community/commit/e5b53ab8e124bca286ca5499124e7b9fe4c1453f",
+      "earliestCommitRepo": "knative/community"
+    }
   ]
 ]
