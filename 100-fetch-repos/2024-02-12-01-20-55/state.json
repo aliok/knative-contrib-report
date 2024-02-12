@@ -1,0 +1,30 @@
+{
+  "startDate": "2024-02-12T01:20:55.489Z",
+  "completionDate": "2024-02-12T01:20:56.183Z",
+  "completionError": null,
+  "unresolved": {},
+  "resolved": {
+    "5bec5ddb-06bd-4a8e-a726-7d73efbf45d5": {
+      "task": {
+        "id": "5bec5ddb-06bd-4a8e-a726-7d73efbf45d5",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "pageSize": 100,
+        "startCursor": null
+      }
+    },
+    "ae455c4a-0ab1-40fe-afcd-bc9ba5f14d45": {
+      "task": {
+        "id": "ae455c4a-0ab1-40fe-afcd-bc9ba5f14d45",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "pageSize": 100,
+        "startCursor": null
+      }
+    }
+  },
+  "errored": {},
+  "archived": {}
+}
