@@ -7174,5 +7174,93 @@
       "earliestCommitUrl": "https://github.com/knative/community/commit/e5b53ab8e124bca286ca5499124e7b9fe4c1453f",
       "earliestCommitRepo": "knative/community"
     }
+  ],
+  [
+    "converge",
+    {
+      "earliestCommitDate": "2024-02-02T10:22:37.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/6380b7b6b4967ad216ee30a71dc01a4a1815cce2",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "nrrso",
+    {
+      "earliestCommitDate": "2024-02-06T14:54:49.000Z",
+      "earliestCommitUrl": "https://github.com/knative/community/commit/cf25fc353b962dd5f9c1c8e0b4800eb92e56af0d",
+      "earliestCommitRepo": "knative/community"
+    }
+  ],
+  [
+    "supu2",
+    {
+      "earliestCommitDate": "2024-02-07T20:38:32.000Z",
+      "earliestCommitUrl": "https://github.com/knative/operator/commit/0f1bee4a554ec67c49963967e11e1d820481a7b6",
+      "earliestCommitRepo": "knative/operator"
+    }
+  ],
+  [
+    "gunishmatta",
+    {
+      "earliestCommitDate": "2024-02-09T10:04:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/d6a383fff58047078c232f83bdcbe9e88d402891",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "Muhammad-Raiyan",
+    {
+      "earliestCommitDate": "2024-02-13T00:35:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/212577294ecd8319b6cb6389cf9bc8de47b4af79",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "amarflybot",
+    {
+      "earliestCommitDate": "2024-02-14T17:31:04.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/62839144d0e96088cfe469ad0de8bd2b707afb13",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "Sanket-0510",
+    {
+      "earliestCommitDate": "2024-02-16T21:10:19.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/d2fb76c39d5db6301a04ad78108c61e7da949a4b",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
+    "igorchyts",
+    {
+      "earliestCommitDate": "2024-02-19T13:26:12.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/4477889942daf822cef25014d043f5df3ae4aa85",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "satyampsoni",
+    {
+      "earliestCommitDate": "2024-02-19T14:06:06.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/bb2c03b9d8794fc84588cb02f9de140296e5582e",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "ckcd",
+    {
+      "earliestCommitDate": "2024-02-20T07:44:05.000Z",
+      "earliestCommitUrl": "https://github.com/knative/networking/commit/630e71a2dbc7e948b1a016ed5f7ea0951aa78ebb",
+      "earliestCommitRepo": "knative/networking"
+    }
+  ],
+  [
+    "mmejia02",
+    {
+      "earliestCommitDate": "2024-02-27T17:18:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/ux/commit/2860bed4e3f48b194b5d8df55c86338108e6a8c4",
+      "earliestCommitRepo": "knative/ux"
+    }
   ]
 ]
