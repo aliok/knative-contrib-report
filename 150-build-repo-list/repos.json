@@ -27,7 +27,6 @@
   "knative/client-pkg",
   "knative/infra",
   "knative/actions",
-  "knative/.allstar",
   "knative/.artifacthub",
   "knative/toolbox",
   "knative-extensions/sample-controller",
