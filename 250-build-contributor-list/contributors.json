@@ -7398,5 +7398,53 @@
       "earliestCommitUrl": "https://github.com/knative/operator/commit/bcb9dcd0d9ea59f088bbfc65cd8d93a2801068ce",
       "earliestCommitRepo": "knative/operator"
     }
+  ],
+  [
+    "rh-hemartin",
+    {
+      "earliestCommitDate": "2024-05-03T11:58:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/3dfe973bff0854e11e7d21937b633b19171717e4",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "Sanskarzz",
+    {
+      "earliestCommitDate": "2024-05-06T22:15:55.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/663676c7c02741d616862300a1c193d3452c1ac7",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "karkabbage",
+    {
+      "earliestCommitDate": "2024-05-07T11:07:58.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-kafka-broker/commit/6c4665c1da44a6b1cd2bb06c0bafab8790a58e4f",
+      "earliestCommitRepo": "knative-extensions/eventing-kafka-broker"
+    }
+  ],
+  [
+    "asr2003",
+    {
+      "earliestCommitDate": "2024-05-27T17:12:35.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/61d4aa74c5e02674c02c162baa78425ed4b244fc",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "mukulgit123",
+    {
+      "earliestCommitDate": "2024-05-27T17:33:26.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/71d1654c0d642f41ab552d270657a7fe6ea8026b",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "rohitsrma",
+    {
+      "earliestCommitDate": "2024-05-31T09:32:00.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/ab1e7b2869350e452db050f49bf5c2dda397cc6e",
+      "earliestCommitRepo": "knative/docs"
+    }
   ]
 ]
