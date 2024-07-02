@@ -1,0 +1,1089 @@
+{
+  "startDate": "2024-07-02T01:35:53.410Z",
+  "completionDate": "2024-07-02T01:39:33.724Z",
+  "completionError": null,
+  "unresolved": {},
+  "resolved": {
+    "01734dd0-7c9b-44a3-8afa-b0805ee1ae0a": {
+      "task": {
+        "id": "01734dd0-7c9b-44a3-8afa-b0805ee1ae0a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-kogito",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "051ac46d-c14d-4090-818d-42e62a7e2fa5": {
+      "task": {
+        "id": "051ac46d-c14d-4090-818d-42e62a7e2fa5",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-camel",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "08be3b65-dd70-435d-8793-216b8d4243c2": {
+      "task": {
+        "id": "08be3b65-dd70-435d-8793-216b8d4243c2",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "security-guard",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "0da6cf70-57a1-4eeb-a929-fab1a91184e2": {
+      "task": {
+        "id": "0da6cf70-57a1-4eeb-a929-fab1a91184e2",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-sample",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "0e11ea15-88a0-4554-a326-cc91c0e3ba1b": {
+      "task": {
+        "id": "0e11ea15-88a0-4554-a326-cc91c0e3ba1b",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "func",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "106a05f8-f76b-4252-b427-8a5490a04ce0": {
+      "task": {
+        "id": "106a05f8-f76b-4252-b427-8a5490a04ce0",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": ".artifacthub",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "13479d3e-c320-4ea4-8dc3-1b2df488228a": {
+      "task": {
+        "id": "13479d3e-c320-4ea4-8dc3-1b2df488228a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "pkg",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "1472cbb8-4571-43b7-ae88-d0c1951c36d7": {
+      "task": {
+        "id": "1472cbb8-4571-43b7-ae88-d0c1951c36d7",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "backstage-plugins",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "18840666-b6ed-489e-b680-92a9e5422c50": {
+      "task": {
+        "id": "18840666-b6ed-489e-b680-92a9e5422c50",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-source-kafka",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "1b5adf5d-5cf2-4b9e-8e3d-ba809bfcf642": {
+      "task": {
+        "id": "1b5adf5d-5cf2-4b9e-8e3d-ba809bfcf642",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": ".allstar",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "28b04331-30e4-486b-ade6-abed6ee703e3": {
+      "task": {
+        "id": "28b04331-30e4-486b-ade6-abed6ee703e3",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "client-pkg",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "29030ee7-a0ae-45a5-8e3f-14f8cff13e76": {
+      "task": {
+        "id": "29030ee7-a0ae-45a5-8e3f-14f8cff13e76",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "discovery",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "29670dfb-8f15-4cf3-8170-d06ccfd9854e": {
+      "task": {
+        "id": "29670dfb-8f15-4cf3-8170-d06ccfd9854e",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "caching",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "2b3c4fd0-e11d-480a-ad62-11f55ae8aa56": {
+      "task": {
+        "id": "2b3c4fd0-e11d-480a-ad62-11f55ae8aa56",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "wg-repository",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "2d6f1bb0-b7b9-44ca-bd64-a636c0410364": {
+      "task": {
+        "id": "2d6f1bb0-b7b9-44ca-bd64-a636c0410364",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-event",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "32f55042-3edf-44d7-a627-5aa6fd9bebdc": {
+      "task": {
+        "id": "32f55042-3edf-44d7-a627-5aa6fd9bebdc",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "ux",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "330cafec-f7ef-43ac-8086-7d4739c71117": {
+      "task": {
+        "id": "330cafec-f7ef-43ac-8086-7d4739c71117",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-gateway-api",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "37768e04-8359-41e1-b8eb-4b264fb6f12a": {
+      "task": {
+        "id": "37768e04-8359-41e1-b8eb-4b264fb6f12a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-kourier",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "39f97cf6-2f37-4387-ac05-efb03faa28a0": {
+      "task": {
+        "id": "39f97cf6-2f37-4387-ac05-efb03faa28a0",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "release",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "3c7d9782-8fe9-4db0-982d-467430e0c5cd": {
+      "task": {
+        "id": "3c7d9782-8fe9-4db0-982d-467430e0c5cd",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-couchdb",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "41c01aea-24c9-4f5f-a2d1-7eecea22bed9": {
+      "task": {
+        "id": "41c01aea-24c9-4f5f-a2d1-7eecea22bed9",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-rabbitmq",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "41f663ae-efe7-40c2-b674-06181b5702ee": {
+      "task": {
+        "id": "41f663ae-efe7-40c2-b674-06181b5702ee",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "scaling-group",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "46f08676-883a-4de0-9f58-2e1540ac4e9b": {
+      "task": {
+        "id": "46f08676-883a-4de0-9f58-2e1540ac4e9b",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-gitlab",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "4778f730-f7b8-443e-bbb5-310e17cea34c": {
+      "task": {
+        "id": "4778f730-f7b8-443e-bbb5-310e17cea34c",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "test-infra",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "49408f93-dcff-4dd7-857d-9a9283684c8a": {
+      "task": {
+        "id": "49408f93-dcff-4dd7-857d-9a9283684c8a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-ceph",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "496949f8-112a-434e-8b58-1bf3ee038e60": {
+      "task": {
+        "id": "496949f8-112a-434e-8b58-1bf3ee038e60",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "build",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "4ba3d37e-28c5-4430-9abe-dda9339fc1dc": {
+      "task": {
+        "id": "4ba3d37e-28c5-4430-9abe-dda9339fc1dc",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "infra",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "4f607735-d8d4-4018-9a4c-b7a2acb9f285": {
+      "task": {
+        "id": "4f607735-d8d4-4018-9a4c-b7a2acb9f285",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "func-python",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "4f8dac4f-a899-4dcb-907e-146f85989566": {
+      "task": {
+        "id": "4f8dac4f-a899-4dcb-907e-146f85989566",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "build-templates",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "4fec74d0-59ba-40e3-be1b-e946690c1ad5": {
+      "task": {
+        "id": "4fec74d0-59ba-40e3-be1b-e946690c1ad5",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "networking",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "57cb067b-fa1e-46b9-acdb-5443ba1b31ee": {
+      "task": {
+        "id": "57cb067b-fa1e-46b9-acdb-5443ba1b31ee",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-github",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "5d09f4ec-50be-467f-bd74-efe4849959e1": {
+      "task": {
+        "id": "5d09f4ec-50be-467f-bd74-efe4849959e1",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "hack",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "66506dab-2a5b-47e2-8d7f-101d15cdf6d8": {
+      "task": {
+        "id": "66506dab-2a5b-47e2-8d7f-101d15cdf6d8",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-service-log",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "6763a1e8-b992-4dba-bd84-ae0231777343": {
+      "task": {
+        "id": "6763a1e8-b992-4dba-bd84-ae0231777343",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-awssqs",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "750592b9-a9ce-4a51-9705-bd4392c4ff3f": {
+      "task": {
+        "id": "750592b9-a9ce-4a51-9705-bd4392c4ff3f",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-natss",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "781a52a9-92c0-4f0b-80d2-624f559cf816": {
+      "task": {
+        "id": "781a52a9-92c0-4f0b-80d2-624f559cf816",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-operator",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "7b0d55b2-089f-4901-9abf-973719641293": {
+      "task": {
+        "id": "7b0d55b2-089f-4901-9abf-973719641293",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-kafka-broker",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "7dbb1f66-b600-4ff7-b411-0e7d031ea67c": {
+      "task": {
+        "id": "7dbb1f66-b600-4ff7-b411-0e7d031ea67c",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kperf",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "7ee0ca47-5205-4afa-8813-a36813d72b73": {
+      "task": {
+        "id": "7ee0ca47-5205-4afa-8813-a36813d72b73",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "func-tastic",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "818cae5f-03b7-4649-9584-86f3b2854f8f": {
+      "task": {
+        "id": "818cae5f-03b7-4649-9584-86f3b2854f8f",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-quickstart",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "85b8a11e-dce4-45a6-be68-64a0c5109b81": {
+      "task": {
+        "id": "85b8a11e-dce4-45a6-be68-64a0c5109b81",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "monitoring",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "8c0a4a40-796f-4240-8160-4885c881574a": {
+      "task": {
+        "id": "8c0a4a40-796f-4240-8160-4885c881574a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "eventing-operator",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "8e1ae784-19c3-4ae7-a72b-abe3020f944e": {
+      "task": {
+        "id": "8e1ae784-19c3-4ae7-a72b-abe3020f944e",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "eventing",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "90f234ba-24d9-4be0-8224-b927b7dcf0bb": {
+      "task": {
+        "id": "90f234ba-24d9-4be0-8224-b927b7dcf0bb",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "website",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "914cf138-7051-417d-a23f-e5c58860479d": {
+      "task": {
+        "id": "914cf138-7051-417d-a23f-e5c58860479d",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "async-component",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "97535acd-feef-40dc-955f-9fe2b777b58f": {
+      "task": {
+        "id": "97535acd-feef-40dc-955f-9fe2b777b58f",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "client-contrib",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "9984c136-644d-4c9a-94b9-c862ff4ccf49": {
+      "task": {
+        "id": "9984c136-644d-4c9a-94b9-c862ff4ccf49",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "docs",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "9e9d5172-ba36-4516-a7ab-e979d8f3b571": {
+      "task": {
+        "id": "9e9d5172-ba36-4516-a7ab-e979d8f3b571",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-istio",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "a0215f54-a5de-49d2-9c71-48174cc2abe6": {
+      "task": {
+        "id": "a0215f54-a5de-49d2-9c71-48174cc2abe6",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "operator",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "a21131ec-bb52-4911-aba1-034442380b53": {
+      "task": {
+        "id": "a21131ec-bb52-4911-aba1-034442380b53",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-source-kamelet",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "a283911c-aaa4-4a00-b34c-a67d5138210a": {
+      "task": {
+        "id": "a283911c-aaa4-4a00-b34c-a67d5138210a",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "autoscaler-keda",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "a76756a1-c3d3-46b1-9143-a9b5a2d0a8de": {
+      "task": {
+        "id": "a76756a1-c3d3-46b1-9143-a9b5a2d0a8de",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "homebrew-client",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "ab6d9950-1ea8-4db5-abef-6394b183b8f1": {
+      "task": {
+        "id": "ab6d9950-1ea8-4db5-abef-6394b183b8f1",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "toolbox",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "ad5f4282-1e21-4590-a81a-4d81c56be208": {
+      "task": {
+        "id": "ad5f4282-1e21-4590-a81a-4d81c56be208",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-http01",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "aed24e66-e639-40e0-8b93-93b392cb45f9": {
+      "task": {
+        "id": "aed24e66-e639-40e0-8b93-93b392cb45f9",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-migration",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "b8b3edf9-c444-4b14-ba14-7d3f3fc1959c": {
+      "task": {
+        "id": "b8b3edf9-c444-4b14-ba14-7d3f3fc1959c",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "serving-operator",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "b996c196-998a-4f4d-979a-9c544d9aa487": {
+      "task": {
+        "id": "b996c196-998a-4f4d-979a-9c544d9aa487",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-autoscaler-keda",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "bc70cba8-98ae-4a2c-9af3-4a4b73fd829d": {
+      "task": {
+        "id": "bc70cba8-98ae-4a2c-9af3-4a4b73fd829d",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "serving-progressive-rollout",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "bd3e53c3-f720-47b4-97bf-089d884f7c00": {
+      "task": {
+        "id": "bd3e53c3-f720-47b4-97bf-089d884f7c00",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "sample-controller",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "bfeb7a62-cbec-41b9-a9bb-7bbdf4e38890": {
+      "task": {
+        "id": "bfeb7a62-cbec-41b9-a9bb-7bbdf4e38890",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "control-protocol",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "c0bc861b-a5bf-4027-8763-cb1e764078ef": {
+      "task": {
+        "id": "c0bc861b-a5bf-4027-8763-cb1e764078ef",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-contour",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "c6989762-7a28-475d-a533-e80844eac526": {
+      "task": {
+        "id": "c6989762-7a28-475d-a533-e80844eac526",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "observability",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "c7f6d10f-d7a5-4de0-b8ed-65f4f14bfd64": {
+      "task": {
+        "id": "c7f6d10f-d7a5-4de0-b8ed-65f4f14bfd64",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "sample-source",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "ce84dd41-0c61-45f2-9c3f-f0e227b16251": {
+      "task": {
+        "id": "ce84dd41-0c61-45f2-9c3f-f0e227b16251",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "actions",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "d18d66ce-9eaa-4f18-b50b-b0655d7fa861": {
+      "task": {
+        "id": "d18d66ce-9eaa-4f18-b50b-b0655d7fa861",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "reconciler-test",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "d7ce64cf-e4bf-41cd-8f21-5f02f26c0833": {
+      "task": {
+        "id": "d7ce64cf-e4bf-41cd-8f21-5f02f26c0833",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "func-go",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "d912b1bb-e8d3-43ae-884d-44bdca8a7c97": {
+      "task": {
+        "id": "d912b1bb-e8d3-43ae-884d-44bdca8a7c97",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-prometheus",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "da919941-7c46-4194-b495-d852a5ecc3d0": {
+      "task": {
+        "id": "da919941-7c46-4194-b495-d852a5ecc3d0",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-redis",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "daef132e-6056-44ae-a0fb-07cf3e693d41": {
+      "task": {
+        "id": "daef132e-6056-44ae-a0fb-07cf3e693d41",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "knobots",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "dc2bdfa9-182a-478d-90e8-9c13339fdddc": {
+      "task": {
+        "id": "dc2bdfa9-182a-478d-90e8-9c13339fdddc",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "homebrew-kn-plugins",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "e3c6f5f1-049f-42db-9087-ec1cc7d0b989": {
+      "task": {
+        "id": "e3c6f5f1-049f-42db-9087-ec1cc7d0b989",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": ".github",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "e4b1ce50-6211-4b4d-b5b8-e013e26732d8": {
+      "task": {
+        "id": "e4b1ce50-6211-4b4d-b5b8-e013e26732d8",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": ".github",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "e50a8d35-1d46-41ab-aa50-617aaef0b4f6": {
+      "task": {
+        "id": "e50a8d35-1d46-41ab-aa50-617aaef0b4f6",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-istio",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "ec40b4c3-de36-464a-9070-70b56663a7ce": {
+      "task": {
+        "id": "ec40b4c3-de36-464a-9070-70b56663a7ce",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "eventing-contrib",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "ee68959b-5702-481a-b105-8282bec7b407": {
+      "task": {
+        "id": "ee68959b-5702-481a-b105-8282bec7b407",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "specs",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "efe9bc18-9b94-4bc8-95df-7cecd71a1138": {
+      "task": {
+        "id": "efe9bc18-9b94-4bc8-95df-7cecd71a1138",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "net-certmanager",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "f1e5e30e-94d9-4578-a04a-1b15e2965e7e": {
+      "task": {
+        "id": "f1e5e30e-94d9-4578-a04a-1b15e2965e7e",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "serving",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "f4726469-bb7c-4d28-89c0-2ac6d3616215": {
+      "task": {
+        "id": "f4726469-bb7c-4d28-89c0-2ac6d3616215",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "container-freezer",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "f4ef2a93-9cf6-4253-a320-af1ace6514e8": {
+      "task": {
+        "id": "f4ef2a93-9cf6-4253-a320-af1ace6514e8",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "eventing-kafka",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "f7cee14c-c388-4733-97bd-03dd22838143": {
+      "task": {
+        "id": "f7cee14c-c388-4733-97bd-03dd22838143",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "community",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "f8c33caa-8d0f-40b8-9e2f-88ab1f7722d4": {
+      "task": {
+        "id": "f8c33caa-8d0f-40b8-9e2f-88ab1f7722d4",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative",
+        "repoName": "client",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "fa130c03-44f0-48fa-b935-adfa98ed5e0c": {
+      "task": {
+        "id": "fa130c03-44f0-48fa-b935-adfa98ed5e0c",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-admin",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    },
+    "fe559c45-976f-47af-bd6c-0224a090d4ec": {
+      "task": {
+        "id": "fe559c45-976f-47af-bd6c-0224a090d4ec",
+        "parentId": null,
+        "originatingTaskId": null,
+        "orgName": "knative-extensions",
+        "repoName": "kn-plugin-diag",
+        "pageSize": 100,
+        "startCursor": null,
+        "since": "2024-06-01T00:00:00.000Z",
+        "until": "2024-06-30T23:59:59.999Z"
+      }
+    }
+  },
+  "errored": {},
+  "archived": {}
+}
