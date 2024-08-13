@@ -7534,5 +7534,45 @@
       "earliestCommitUrl": "https://github.com/knative/eventing/commit/beb71bea9bf8175fa73e2b68e35f722aa218b6c5",
       "earliestCommitRepo": "knative/eventing"
     }
+  ],
+  [
+    "giurgiur99",
+    {
+      "earliestCommitDate": "2024-07-01T05:57:47.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/f004ce031be941c79f21289902afd58abb82b81e",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
+    "EraKin575",
+    {
+      "earliestCommitDate": "2024-07-09T14:07:48.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/9eed16366c5e4041088728f35f30db65ef76ed00",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "rissh",
+    {
+      "earliestCommitDate": "2024-07-22T19:53:10.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/7129b49f05d0cb1a79aee612fe3d1a77b9070741",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "joyxxi",
+    {
+      "earliestCommitDate": "2024-07-23T09:19:07.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/c3baeda069fc5ce82f15d9f1a8a1029f67c34304",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "Looka149",
+    {
+      "earliestCommitDate": "2024-07-31T02:08:28.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/serving-progressive-rollout/commit/0bd341b4ec9ef7f375908bc6c41485130f66465a",
+      "earliestCommitRepo": "knative-extensions/serving-progressive-rollout"
+    }
   ]
 ]
