@@ -7574,5 +7574,21 @@
       "earliestCommitUrl": "https://github.com/knative-extensions/serving-progressive-rollout/commit/0bd341b4ec9ef7f375908bc6c41485130f66465a",
       "earliestCommitRepo": "knative-extensions/serving-progressive-rollout"
     }
+  ],
+  [
+    "mstein11",
+    {
+      "earliestCommitDate": "2024-08-01T14:23:59.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/cac5e63b60584dea65ee469c96a292da73e91f1d",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "Alokih",
+    {
+      "earliestCommitDate": "2024-08-06T20:22:16.000Z",
+      "earliestCommitUrl": "https://github.com/knative/ux/commit/d5467de444292369215b10abb92a3af57fa860d0",
+      "earliestCommitRepo": "knative/ux"
+    }
   ]
 ]
