@@ -1,67 +1,7 @@
 [
   {
-    "login": "sukumargaonkar",
-    "name": "Sukumar Gaonkar",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "zhaojizhuang",
-    "name": "Zhao Jizhuang",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
     "login": "daisy-ycguo",
     "name": "Ying Chun Guo",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "christophd",
-    "name": "Christoph Deppisch",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "mkuratczyk",
-    "name": "Michal Kuratczyk",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "sebgoa",
-    "name": null,
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "aslom",
-    "name": "Aleksander Slominski",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -90,8 +30,8 @@
     "contributedRepositories": []
   },
   {
-    "login": "zhanggbj",
-    "name": "Gong Zhang",
+    "login": "sukumargaonkar",
+    "name": "Sukumar Gaonkar",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -110,8 +50,28 @@
     "contributedRepositories": []
   },
   {
-    "login": "maximilien",
-    "name": "dr.max",
+    "login": "sebgoa",
+    "name": null,
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "aslom",
+    "name": "Aleksander Slominski",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "mkuratczyk",
+    "name": "Michal Kuratczyk",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
