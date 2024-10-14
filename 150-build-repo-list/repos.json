@@ -82,5 +82,6 @@
   "knative-extensions/backstage-plugins",
   "knative-extensions/func-python",
   "knative-extensions/autoscaler-keda",
-  "knative-extensions/eventing-integrations"
+  "knative-extensions/eventing-integrations",
+  "knative-extensions/educational-game"
 ]
