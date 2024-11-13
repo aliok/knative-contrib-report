@@ -1,7 +1,7 @@
 [
   {
-    "login": "aavarghese",
-    "name": "Ansu Varghese",
+    "login": "mkuratczyk",
+    "name": "Michal Kuratczyk",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -30,6 +30,26 @@
     "contributedRepositories": []
   },
   {
+    "login": "itsmurugappan",
+    "name": "Murugappan Chetty",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "lionelvillard",
+    "name": "Lionel Villard",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
     "login": "sebgoa",
     "name": null,
     "hasAnyContributions": false,
@@ -50,8 +70,8 @@
     "contributedRepositories": []
   },
   {
-    "login": "mkuratczyk",
-    "name": "Michal Kuratczyk",
+    "login": "aavarghese",
+    "name": "Ansu Varghese",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -60,18 +80,8 @@
     "contributedRepositories": []
   },
   {
-    "login": "lionelvillard",
-    "name": "Lionel Villard",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "itsmurugappan",
-    "name": "Murugappan Chetty",
+    "login": "salaboy",
+    "name": "salaboy",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
