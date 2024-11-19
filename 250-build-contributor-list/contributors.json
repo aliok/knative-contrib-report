@@ -7590,5 +7590,37 @@
       "earliestCommitUrl": "https://github.com/knative/ux/commit/d5467de444292369215b10abb92a3af57fa860d0",
       "earliestCommitRepo": "knative/ux"
     }
+  ],
+  [
+    "AngelinaZhai",
+    {
+      "earliestCommitDate": "2024-10-01T08:02:54.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/educational-game/commit/31a1511d04a9a964160b4809ea2252522aa9d720",
+      "earliestCommitRepo": "knative-extensions/educational-game"
+    }
+  ],
+  [
+    "anoelq",
+    {
+      "earliestCommitDate": "2024-10-01T13:28:32.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/educational-game/commit/524d64a7b98eec019c20a3c102359a7c82ab1152",
+      "earliestCommitRepo": "knative-extensions/educational-game"
+    }
+  ],
+  [
+    "thesuperzapper",
+    {
+      "earliestCommitDate": "2024-10-17T20:24:23.000Z",
+      "earliestCommitUrl": "https://github.com/knative/pkg/commit/6d1085172f16355b79958c2abb3d145fea1a19e5",
+      "earliestCommitRepo": "knative/pkg"
+    }
+  ],
+  [
+    "Zerpet",
+    {
+      "earliestCommitDate": "2024-10-23T13:34:01.000Z",
+      "earliestCommitUrl": "https://github.com/knative/community/commit/f222a6ef3c094e187f347e9d4cf33657a6d5dbef",
+      "earliestCommitRepo": "knative/community"
+    }
   ]
 ]
