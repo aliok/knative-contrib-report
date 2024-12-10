@@ -7622,5 +7622,37 @@
       "earliestCommitUrl": "https://github.com/knative/community/commit/f222a6ef3c094e187f347e9d4cf33657a6d5dbef",
       "earliestCommitRepo": "knative/community"
     }
+  ],
+  [
+    "tarunsunny3",
+    {
+      "earliestCommitDate": "2024-11-15T13:07:43.000Z",
+      "earliestCommitUrl": "https://github.com/knative/func/commit/bf9a70a648c6240f2dbc64e40a519af1ab0ce834",
+      "earliestCommitRepo": "knative/func"
+    }
+  ],
+  [
+    "yatesliang",
+    {
+      "earliestCommitDate": "2024-11-20T17:23:01.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/7f313d70c089c0b9ed03c34c6a3283033d9edff7",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "patrickleet",
+    {
+      "earliestCommitDate": "2024-11-22T18:08:03.000Z",
+      "earliestCommitUrl": "https://github.com/knative/operator/commit/c5e5285d33e1d4e0739a0a6b67dd1f7a303e8dce",
+      "earliestCommitRepo": "knative/operator"
+    }
+  ],
+  [
+    "mfahlandt",
+    {
+      "earliestCommitDate": "2024-11-22T22:13:03.000Z",
+      "earliestCommitUrl": "https://github.com/knative/community/commit/aa02213f729b0339cfd85e44d79a6c2b9e30441a",
+      "earliestCommitRepo": "knative/community"
+    }
   ]
 ]
