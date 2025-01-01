@@ -10,8 +10,8 @@
     "contributedRepositories": []
   },
   {
-    "login": "sebgoa",
-    "name": null,
+    "login": "aavarghese",
+    "name": "Ansu Varghese",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -20,8 +20,8 @@
     "contributedRepositories": []
   },
   {
-    "login": "lance",
-    "name": "Lance Ball",
+    "login": "aslom",
+    "name": "Aleksander Slominski",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -50,6 +50,26 @@
     "contributedRepositories": []
   },
   {
+    "login": "salaboy",
+    "name": "salaboy",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "lance",
+    "name": "Lance Ball",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
     "login": "lionelvillard",
     "name": "Lionel Villard",
     "hasAnyContributions": false,
@@ -60,38 +80,18 @@
     "contributedRepositories": []
   },
   {
+    "login": "sebgoa",
+    "name": null,
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
     "login": "itsmurugappan",
     "name": "Murugappan Chetty",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "aslom",
-    "name": "Aleksander Slominski",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "aavarghese",
-    "name": "Ansu Varghese",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "salaboy",
-    "name": "salaboy",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
