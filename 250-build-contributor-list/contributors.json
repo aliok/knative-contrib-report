@@ -7654,5 +7654,61 @@
       "earliestCommitUrl": "https://github.com/knative/community/commit/aa02213f729b0339cfd85e44d79a6c2b9e30441a",
       "earliestCommitRepo": "knative/community"
     }
+  ],
+  [
+    "AlexMamoukarys",
+    {
+      "earliestCommitDate": "2024-12-05T03:30:45.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/8d8b6c9b670902d263f0b168e95e2e99ef98008d",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "airycanon",
+    {
+      "earliestCommitDate": "2024-12-11T07:22:51.000Z",
+      "earliestCommitUrl": "https://github.com/knative/eventing/commit/7c1a62de528314e0488c7cb47b59a1939071e469",
+      "earliestCommitRepo": "knative/eventing"
+    }
+  ],
+  [
+    "muscionig",
+    {
+      "earliestCommitDate": "2024-12-16T09:12:32.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/autoscaler-keda/commit/f15726cd63462bb1f1e459d1051e1f5b1d6247aa",
+      "earliestCommitRepo": "knative-extensions/autoscaler-keda"
+    }
+  ],
+  [
+    "mattn",
+    {
+      "earliestCommitDate": "2024-12-29T02:17:11.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/b8ff86b34afae5277b029225ca0e1544d7c7e955",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "valtterikantanen",
+    {
+      "earliestCommitDate": "2024-12-29T02:18:11.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/818e4624300578c7739137edaf6754da5fb5fdea",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "KapilSareen",
+    {
+      "earliestCommitDate": "2024-12-30T17:02:49.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/da8d2d14fa204db03f205238702a2e6c3fc398e6",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "harshitasao",
+    {
+      "earliestCommitDate": "2024-12-30T22:57:49.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/df030277a7be5bfa869e1b6e1f60e29502393a3a",
+      "earliestCommitRepo": "knative/serving"
+    }
   ]
 ]
