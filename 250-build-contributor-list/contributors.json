@@ -7710,5 +7710,69 @@
       "earliestCommitUrl": "https://github.com/knative/serving/commit/df030277a7be5bfa869e1b6e1f60e29502393a3a",
       "earliestCommitRepo": "knative/serving"
     }
+  ],
+  [
+    "AyushSawant18588",
+    {
+      "earliestCommitDate": "2025-01-02T20:51:52.000Z",
+      "earliestCommitUrl": "https://github.com/knative/operator/commit/8ec74176ca9c908e134903329ada5317afc0a262",
+      "earliestCommitRepo": "knative/operator"
+    }
+  ],
+  [
+    "linncy",
+    {
+      "earliestCommitDate": "2025-01-09T14:56:16.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/5761506d1d82fe78012681fc43f5de90c5129354",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "vthurimella",
+    {
+      "earliestCommitDate": "2025-01-09T23:38:22.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/bb76b60380adb73b28af330f6b81fed1bff37d76",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "timonwong",
+    {
+      "earliestCommitDate": "2025-01-14T16:45:02.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/e32409384b02c1e6601a92241356abd8a22da809",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "konstfish",
+    {
+      "earliestCommitDate": "2025-01-16T23:57:05.000Z",
+      "earliestCommitUrl": "https://github.com/knative/serving/commit/a5988ebc81b1a4c8709b150d1a05ce526444e478",
+      "earliestCommitRepo": "knative/serving"
+    }
+  ],
+  [
+    "LYSingD",
+    {
+      "earliestCommitDate": "2025-01-21T09:38:09.000Z",
+      "earliestCommitUrl": "https://github.com/knative/docs/commit/4e1b4545e9f49f1fba5cae002943889585ac450f",
+      "earliestCommitRepo": "knative/docs"
+    }
+  ],
+  [
+    "sidprak",
+    {
+      "earliestCommitDate": "2025-01-22T15:54:11.000Z",
+      "earliestCommitUrl": "https://github.com/knative/operator/commit/1821cf7ba7012278bc557b12cfe9c5fd564dacf7",
+      "earliestCommitRepo": "knative/operator"
+    }
+  ],
+  [
+    "danny50610",
+    {
+      "earliestCommitDate": "2025-01-23T15:42:34.000Z",
+      "earliestCommitUrl": "https://github.com/knative-extensions/eventing-rabbitmq/commit/dbe65f623622a5f0404691c122f708e8ef604035",
+      "earliestCommitRepo": "knative-extensions/eventing-rabbitmq"
+    }
   ]
 ]
