@@ -1,57 +1,7 @@
 [
   {
-    "login": "salaboy",
-    "name": "salaboy",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "daisy-ycguo",
-    "name": "Ying Chun Guo",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "sukumargaonkar",
-    "name": "Sukumar Gaonkar",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "sebgoa",
-    "name": null,
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
     "login": "lance",
     "name": "Lance Ball",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  {
-    "login": "aslom",
-    "name": "Aleksander Slominski",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -82,6 +32,56 @@
   {
     "login": "lionelvillard",
     "name": "Lionel Villard",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "salaboy",
+    "name": "salaboy",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "daisy-ycguo",
+    "name": "Ying Chun Guo",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "aslom",
+    "name": "Aleksander Slominski",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "sebgoa",
+    "name": null,
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  {
+    "login": "sukumargaonkar",
+    "name": "Sukumar Gaonkar",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
