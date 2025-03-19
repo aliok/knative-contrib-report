@@ -1,4 +1,125 @@
 {
+  "lance": {
+    "login": "lance",
+    "name": "Lance Ball",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  "matejvasek": {
+    "login": "matejvasek",
+    "name": "Matej Vašek",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 99,
+    "totalIssueContributions": 1,
+    "totalPullRequestContributions": 126,
+    "totalPullRequestReviewContributions": 16,
+    "contributedRepositories": [
+      "knative/func",
+      "knative/actions",
+      "knative/serving",
+      "knative/eventing"
+    ]
+  },
+  "mgencur": {
+    "login": "mgencur",
+    "name": "Martin Gencur",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 25,
+    "totalIssueContributions": 9,
+    "totalPullRequestContributions": 28,
+    "totalPullRequestReviewContributions": 3,
+    "contributedRepositories": [
+      "knative/eventing",
+      "knative/serving",
+      "knative/docs",
+      "knative/operator",
+      "knative/hack",
+      "knative-extensions/eventing-kafka-broker"
+    ]
+  },
+  "christophd": {
+    "login": "christophd",
+    "name": "Christoph Deppisch",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 19,
+    "totalIssueContributions": 3,
+    "totalPullRequestContributions": 20,
+    "totalPullRequestReviewContributions": 8,
+    "contributedRepositories": [
+      "knative-extensions/eventing-integrations",
+      "knative/eventing"
+    ]
+  },
+  "evankanderson": {
+    "login": "evankanderson",
+    "name": "Evan Anderson",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 6,
+    "totalIssueContributions": 1,
+    "totalPullRequestContributions": 4,
+    "totalPullRequestReviewContributions": 31,
+    "contributedRepositories": [
+      "knative/docs",
+      "knative/community",
+      "knative/hack",
+      "knative/infra",
+      "knative/actions",
+      "knative/pkg",
+      "knative/eventing",
+      "knative-extensions/knobots",
+      "knative-extensions/security-guard"
+    ]
+  },
+  "lberk": {
+    "login": "lberk",
+    "name": "Lukas Berk",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 1,
+    "contributedRepositories": [
+      "knative/docs"
+    ]
+  },
+  "pierDipi": {
+    "login": "pierDipi",
+    "name": "Pierangelo Di Pilato",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 302,
+    "totalIssueContributions": 28,
+    "totalPullRequestContributions": 324,
+    "totalPullRequestReviewContributions": 626,
+    "contributedRepositories": [
+      "knative/eventing",
+      "knative/docs",
+      "knative/infra",
+      "knative/operator",
+      "knative/pkg",
+      "knative/func",
+      "knative/community",
+      "knative/hack",
+      "knative/release",
+      "knative-extensions/eventing-kafka-broker",
+      "knative-extensions/reconciler-test",
+      "knative-extensions/eventing-integrations",
+      "knative-extensions/knobots",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/eventing-istio",
+      "knative-extensions/eventing-redis",
+      "knative-extensions/kn-plugin-event",
+      "knative-extensions/eventing-natss",
+      "knative-extensions/eventing-ceph",
+      "knative-extensions/eventing-rabbitmq",
+      "knative-extensions/kn-plugin-quickstart",
+      "knative-extensions/eventing-autoscaler-keda",
+      "knative-extensions/eventing-gitlab"
+    ]
+  },
   "nainaz": {
     "login": "nainaz",
     "name": "Naina Singh",
@@ -22,6 +143,347 @@
     "totalPullRequestReviewContributions": 0,
     "contributedRepositories": []
   },
+  "aavarghese": {
+    "login": "aavarghese",
+    "name": "Ansu Varghese",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  "matzew": {
+    "login": "matzew",
+    "name": "Matthias Wessendorf",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 126,
+    "totalIssueContributions": 33,
+    "totalPullRequestContributions": 152,
+    "totalPullRequestReviewContributions": 493,
+    "contributedRepositories": [
+      "knative/eventing",
+      "knative/docs",
+      "knative/community",
+      "knative/func",
+      "knative/operator",
+      "knative/specs",
+      "knative/release",
+      "knative/client",
+      "knative/hack",
+      "knative/infra",
+      "knative/pkg",
+      "knative-extensions/eventing-kafka-broker",
+      "knative-extensions/func-python",
+      "knative-extensions/eventing-integrations",
+      "knative-extensions/kn-plugin-quickstart",
+      "knative-extensions/knobots",
+      "knative-extensions/func-go",
+      "knative-extensions/eventing-ceph",
+      "knative-extensions/eventing-github",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/kn-plugin-event",
+      "knative-extensions/eventing-istio",
+      "knative-extensions/reconciler-test",
+      "knative-extensions/eventing-gitlab"
+    ]
+  },
+  "dsimansk": {
+    "login": "dsimansk",
+    "name": "David Simansky",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 127,
+    "totalIssueContributions": 6,
+    "totalPullRequestContributions": 111,
+    "totalPullRequestReviewContributions": 124,
+    "contributedRepositories": [
+      "knative/community",
+      "knative/client",
+      "knative/release",
+      "knative/docs",
+      "knative/actions",
+      "knative/func",
+      "knative/infra",
+      "knative/homebrew-client",
+      "knative/hack",
+      "knative/eventing",
+      "knative/client-pkg",
+      "knative/serving",
+      "knative/.github",
+      "knative/toolbox",
+      "knative/operator",
+      "knative/caching",
+      "knative/networking",
+      "knative/pkg",
+      "knative-extensions/eventing-integrations",
+      "knative-extensions/homebrew-kn-plugins",
+      "knative-extensions/knobots",
+      "knative-extensions/kn-plugin-source-kafka",
+      "knative-extensions/eventing-natss",
+      "knative-extensions/kn-plugin-admin",
+      "knative-extensions/kn-plugin-quickstart",
+      "knative-extensions/kn-plugin-event",
+      "knative-extensions/eventing-rabbitmq",
+      "knative-extensions/kn-plugin-source-kamelet",
+      "knative-extensions/kn-plugin-sample",
+      "knative-extensions/eventing-autoscaler-keda",
+      "knative-extensions/.github",
+      "knative-extensions/kn-plugin-service-log",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/eventing-github",
+      "knative-extensions/eventing-kafka-broker",
+      "knative-extensions/net-istio",
+      "knative-extensions/autoscaler-keda",
+      "knative-extensions/eventing-ceph",
+      "knative-extensions/eventing-redis",
+      "knative-extensions/net-gateway-api",
+      "knative-extensions/eventing-istio",
+      "knative-extensions/eventing-gitlab",
+      "knative-extensions/sample-source",
+      "knative-extensions/reconciler-test",
+      "knative-extensions/net-contour",
+      "knative-extensions/net-kourier"
+    ]
+  },
+  "KauzClay": {
+    "login": "KauzClay",
+    "name": "Clay Kauzlaric",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 3,
+    "totalIssueContributions": 2,
+    "totalPullRequestContributions": 5,
+    "totalPullRequestReviewContributions": 1,
+    "contributedRepositories": [
+      "knative-extensions/net-gateway-api",
+      "knative-extensions/net-contour",
+      "knative/serving"
+    ]
+  },
+  "lionelvillard": {
+    "login": "lionelvillard",
+    "name": "Lionel Villard",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
+  },
+  "houshengbo": {
+    "login": "houshengbo",
+    "name": "Vincent",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 76,
+    "totalIssueContributions": 8,
+    "totalPullRequestContributions": 147,
+    "totalPullRequestReviewContributions": 35,
+    "contributedRepositories": [
+      "knative-extensions/serving-progressive-rollout",
+      "knative-extensions/kn-plugin-operator",
+      "knative-extensions/eventing-github",
+      "knative-extensions/autoscaler-keda",
+      "knative/operator",
+      "knative/docs",
+      "knative/community",
+      "knative/serving"
+    ]
+  },
+  "cardil": {
+    "login": "cardil",
+    "name": "Chris Suszynski",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 42,
+    "totalIssueContributions": 21,
+    "totalPullRequestContributions": 53,
+    "totalPullRequestReviewContributions": 75,
+    "contributedRepositories": [
+      "knative/client-pkg",
+      "knative/hack",
+      "knative/client",
+      "knative/community",
+      "knative/toolbox",
+      "knative/infra",
+      "knative/actions",
+      "knative/release",
+      "knative/eventing",
+      "knative/pkg",
+      "knative/networking",
+      "knative/caching",
+      "knative/serving",
+      "knative-extensions/kn-plugin-event",
+      "knative-extensions/sample-controller",
+      "knative-extensions/knobots",
+      "knative-extensions/kn-plugin-quickstart",
+      "knative-extensions/net-istio",
+      "knative-extensions/security-guard",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/autoscaler-keda",
+      "knative-extensions/reconciler-test",
+      "knative-extensions/net-contour",
+      "knative-extensions/net-gateway-api",
+      "knative-extensions/net-certmanager",
+      "knative-extensions/net-kourier"
+    ]
+  },
+  "skonto": {
+    "login": "skonto",
+    "name": "Stavros Kontopoulos",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 89,
+    "totalIssueContributions": 32,
+    "totalPullRequestContributions": 108,
+    "totalPullRequestReviewContributions": 68,
+    "contributedRepositories": [
+      "knative/serving",
+      "knative/docs",
+      "knative/pkg",
+      "knative/community",
+      "knative/infra",
+      "knative/release",
+      "knative/operator",
+      "knative/networking",
+      "knative/hack",
+      "knative/eventing",
+      "knative-extensions/autoscaler-keda",
+      "knative-extensions/net-kourier",
+      "knative-extensions/net-istio",
+      "knative-extensions/knobots",
+      "knative-extensions/net-gateway-api",
+      "knative-extensions/net-contour",
+      "knative-extensions/eventing-kafka-broker",
+      "knative-extensions/eventing-github"
+    ]
+  },
+  "aliok": {
+    "login": "aliok",
+    "name": "Ali Ok",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 52,
+    "totalIssueContributions": 9,
+    "totalPullRequestContributions": 52,
+    "totalPullRequestReviewContributions": 34,
+    "contributedRepositories": [
+      "knative/community",
+      "knative/eventing",
+      "knative/infra",
+      "knative/docs",
+      "knative/ux",
+      "knative/release",
+      "knative/operator",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/knobots",
+      "knative-extensions/func-python"
+    ]
+  },
+  "gauron99": {
+    "login": "gauron99",
+    "name": "David Fridrich",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 26,
+    "totalIssueContributions": 4,
+    "totalPullRequestContributions": 29,
+    "totalPullRequestReviewContributions": 47,
+    "contributedRepositories": [
+      "knative/func",
+      "knative/actions"
+    ]
+  },
+  "Leo6Leo": {
+    "login": "Leo6Leo",
+    "name": "Leo Li",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 64,
+    "totalIssueContributions": 68,
+    "totalPullRequestContributions": 58,
+    "totalPullRequestReviewContributions": 56,
+    "contributedRepositories": [
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/eventing-rabbitmq",
+      "knative-extensions/eventing-natss",
+      "knative-extensions/eventing-ceph",
+      "knative-extensions/eventing-kogito",
+      "knative/docs",
+      "knative/ux",
+      "knative/eventing",
+      "knative/community",
+      "knative/serving",
+      "knative/func"
+    ]
+  },
+  "upodroid": {
+    "login": "upodroid",
+    "name": "Mahamed Ali",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 9,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 8,
+    "totalPullRequestReviewContributions": 54,
+    "contributedRepositories": [
+      "knative/infra",
+      "knative/hack",
+      "knative/community",
+      "knative/actions",
+      "knative/toolbox",
+      "knative/serving",
+      "knative-extensions/knobots",
+      "knative-extensions/kn-plugin-operator",
+      "knative-extensions/serving-progressive-rollout"
+    ]
+  },
+  "lkingland": {
+    "login": "lkingland",
+    "name": "Luke Kingland",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 40,
+    "totalIssueContributions": 3,
+    "totalPullRequestContributions": 39,
+    "totalPullRequestReviewContributions": 73,
+    "contributedRepositories": [
+      "knative/func",
+      "knative/docs",
+      "knative/community",
+      "knative-extensions/func-python",
+      "knative-extensions/knobots",
+      "knative-extensions/func-go"
+    ]
+  },
+  "zainabhusain227": {
+    "login": "zainabhusain227",
+    "name": null,
+    "hasAnyContributions": true,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 5,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 1,
+    "contributedRepositories": [
+      "knative/ux",
+      "knative-extensions/educational-game"
+    ]
+  },
+  "jrangelramos": {
+    "login": "jrangelramos",
+    "name": "Jefferson Ramos",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 8,
+    "totalIssueContributions": 5,
+    "totalPullRequestContributions": 10,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": [
+      "knative/func"
+    ]
+  },
+  "mkuratczyk": {
+    "login": "mkuratczyk",
+    "name": "Michal Kuratczyk",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 1,
+    "contributedRepositories": [
+      "knative-extensions/eventing-rabbitmq"
+    ]
+  },
   "vyasgun": {
     "login": "vyasgun",
     "name": "Gunjan Vyas",
@@ -35,61 +497,100 @@
       "knative/client-pkg"
     ]
   },
-  "lberk": {
-    "login": "lberk",
-    "name": "Lukas Berk",
+  "creydr": {
+    "login": "creydr",
+    "name": "Christoph Stäbler",
     "hasAnyContributions": true,
+    "totalCommitContributions": 108,
+    "totalIssueContributions": 39,
+    "totalPullRequestContributions": 104,
+    "totalPullRequestReviewContributions": 488,
+    "contributedRepositories": [
+      "knative-extensions/eventing-kafka-broker",
+      "knative-extensions/reconciler-test",
+      "knative-extensions/eventing-istio",
+      "knative-extensions/eventing-rabbitmq",
+      "knative-extensions/knobots",
+      "knative-extensions/eventing-ceph",
+      "knative-extensions/backstage-plugins",
+      "knative-extensions/eventing-natss",
+      "knative-extensions/eventing-gitlab",
+      "knative-extensions/eventing-integrations",
+      "knative-extensions/eventing-github",
+      "knative-extensions/eventing-redis",
+      "knative-extensions/eventing-autoscaler-keda",
+      "knative-extensions/sample-source",
+      "knative-extensions/eventing-kogito",
+      "knative-extensions/homebrew-kn-plugins",
+      "knative/eventing",
+      "knative/docs",
+      "knative/community",
+      "knative/pkg",
+      "knative/release",
+      "knative/hack",
+      "knative/infra"
+    ]
+  },
+  "rhuss": {
+    "login": "rhuss",
+    "name": "Roland Huß",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 3,
+    "totalIssueContributions": 9,
+    "totalPullRequestContributions": 1,
+    "totalPullRequestReviewContributions": 11,
+    "contributedRepositories": [
+      "knative-extensions/kn-plugin-quickstart",
+      "knative-extensions/kn-plugin-event",
+      "knative-extensions/homebrew-kn-plugins",
+      "knative-extensions/security-guard",
+      "knative/community",
+      "knative/docs",
+      "knative/func",
+      "knative/client",
+      "knative/serving",
+      "knative/homebrew-client"
+    ]
+  },
+  "salaboy": {
+    "login": "salaboy",
+    "name": "salaboy",
+    "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
     "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 1,
-    "contributedRepositories": [
-      "knative/docs"
-    ]
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
   },
-  "lkingland": {
-    "login": "lkingland",
-    "name": "Luke Kingland",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 33,
-    "totalIssueContributions": 1,
-    "totalPullRequestContributions": 34,
-    "totalPullRequestReviewContributions": 82,
-    "contributedRepositories": [
-      "knative-extensions/func-python",
-      "knative-extensions/func-go",
-      "knative-extensions/knobots",
-      "knative/func",
-      "knative/docs",
-      "knative/community"
-    ]
-  },
-  "mgencur": {
-    "login": "mgencur",
-    "name": "Martin Gencur",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 26,
-    "totalIssueContributions": 9,
-    "totalPullRequestContributions": 30,
-    "totalPullRequestReviewContributions": 5,
-    "contributedRepositories": [
-      "knative-extensions/eventing-kafka-broker",
-      "knative/eventing",
-      "knative/serving",
-      "knative/docs",
-      "knative/operator",
-      "knative/hack"
-    ]
+  "daisy-ycguo": {
+    "login": "daisy-ycguo",
+    "name": "Ying Chun Guo",
+    "hasAnyContributions": false,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
+    "contributedRepositories": []
   },
   "Cali0707": {
     "login": "Cali0707",
     "name": "Calum Murray",
     "hasAnyContributions": true,
-    "totalCommitContributions": 145,
-    "totalIssueContributions": 90,
-    "totalPullRequestContributions": 130,
-    "totalPullRequestReviewContributions": 505,
+    "totalCommitContributions": 128,
+    "totalIssueContributions": 59,
+    "totalPullRequestContributions": 109,
+    "totalPullRequestReviewContributions": 427,
     "contributedRepositories": [
+      "knative/eventing",
+      "knative/docs",
+      "knative/community",
+      "knative/ux",
+      "knative/infra",
+      "knative/func",
+      "knative/hack",
+      "knative/release",
+      "knative/serving",
+      "knative/pkg",
       "knative-extensions/eventing-kafka-broker",
       "knative-extensions/educational-game",
       "knative-extensions/reconciler-test",
@@ -103,24 +604,13 @@
       "knative-extensions/eventing-istio",
       "knative-extensions/eventing-autoscaler-keda",
       "knative-extensions/eventing-kogito",
-      "knative-extensions/backstage-plugins",
       "knative-extensions/kn-plugin-source-kafka",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative/eventing",
-      "knative/docs",
-      "knative/community",
-      "knative/infra",
-      "knative/ux",
-      "knative/func",
-      "knative/hack",
-      "knative/release",
-      "knative/serving",
-      "knative/pkg"
+      "knative-extensions/kn-plugin-quickstart"
     ]
   },
-  "sukumargaonkar": {
-    "login": "sukumargaonkar",
-    "name": "Sukumar Gaonkar",
+  "aslom": {
+    "login": "aslom",
+    "name": "Aleksander Slominski",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -128,106 +618,63 @@
     "totalPullRequestReviewContributions": 0,
     "contributedRepositories": []
   },
-  "jrangelramos": {
-    "login": "jrangelramos",
-    "name": "Jefferson Ramos",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 9,
-    "totalIssueContributions": 5,
-    "totalPullRequestContributions": 10,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": [
-      "knative/func"
-    ]
-  },
-  "csantanapr": {
-    "login": "csantanapr",
-    "name": "Carlos Santana",
+  "nrrso": {
+    "login": "nrrso",
+    "name": "Norris",
     "hasAnyContributions": true,
     "totalCommitContributions": 0,
-    "totalIssueContributions": 1,
+    "totalIssueContributions": 2,
     "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 1,
+    "totalPullRequestReviewContributions": 0,
     "contributedRepositories": [
-      "knative/func"
-    ]
-  },
-  "christophd": {
-    "login": "christophd",
-    "name": "Christoph Deppisch",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 18,
-    "totalIssueContributions": 3,
-    "totalPullRequestContributions": 19,
-    "totalPullRequestReviewContributions": 7,
-    "contributedRepositories": [
-      "knative/eventing",
-      "knative-extensions/eventing-integrations"
-    ]
-  },
-  "skonto": {
-    "login": "skonto",
-    "name": "Stavros Kontopoulos",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 82,
-    "totalIssueContributions": 33,
-    "totalPullRequestContributions": 102,
-    "totalPullRequestReviewContributions": 70,
-    "contributedRepositories": [
-      "knative-extensions/autoscaler-keda",
-      "knative-extensions/net-kourier",
-      "knative-extensions/knobots",
-      "knative-extensions/net-istio",
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/net-gateway-api",
-      "knative-extensions/net-contour",
-      "knative-extensions/eventing-github",
-      "knative/serving",
-      "knative/docs",
-      "knative/pkg",
       "knative/community",
-      "knative/infra",
-      "knative/release",
-      "knative/networking",
-      "knative/hack",
-      "knative/eventing"
+      "knative/docs"
     ]
   },
-  "gauron99": {
-    "login": "gauron99",
-    "name": "David Fridrich",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 17,
-    "totalIssueContributions": 4,
-    "totalPullRequestContributions": 19,
-    "totalPullRequestReviewContributions": 33,
-    "contributedRepositories": [
-      "knative/func"
-    ]
-  },
-  "lionelvillard": {
-    "login": "lionelvillard",
-    "name": "Lionel Villard",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  "astelmashenko": {
-    "login": "astelmashenko",
-    "name": "Andrii Stelmashenko",
+  "davidhadas": {
+    "login": "davidhadas",
+    "name": "David Hadas",
     "hasAnyContributions": true,
     "totalCommitContributions": 7,
-    "totalIssueContributions": 2,
-    "totalPullRequestContributions": 11,
-    "totalPullRequestReviewContributions": 3,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 6,
+    "totalPullRequestReviewContributions": 2,
     "contributedRepositories": [
-      "knative-extensions/eventing-natss",
-      "knative/eventing",
-      "knative/func",
-      "knative/release"
+      "knative-extensions/security-guard",
+      "knative/community",
+      "knative/docs"
+    ]
+  },
+  "dprotaso": {
+    "login": "dprotaso",
+    "name": "Dave Protasowski",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 195,
+    "totalIssueContributions": 29,
+    "totalPullRequestContributions": 189,
+    "totalPullRequestReviewContributions": 51,
+    "contributedRepositories": [
+      "knative-extensions/net-gateway-api",
+      "knative-extensions/net-istio",
+      "knative-extensions/net-contour",
+      "knative-extensions/sample-controller",
+      "knative-extensions/knobots",
+      "knative-extensions/net-kourier",
+      "knative-extensions/eventing-rabbitmq",
+      "knative-extensions/net-certmanager",
+      "knative-extensions/autoscaler-keda",
+      "knative-extensions/.github",
+      "knative/serving",
+      "knative/community",
+      "knative/pkg",
+      "knative/infra",
+      "knative/networking",
+      "knative/actions",
+      "knative/caching",
+      "knative/docs",
+      "knative/operator",
+      "knative/release",
+      "knative/client"
     ]
   },
   "alexagriffith": {
@@ -242,238 +689,30 @@
       "knative/operator"
     ]
   },
-  "aliok": {
-    "login": "aliok",
-    "name": "Ali Ok",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 64,
-    "totalIssueContributions": 24,
-    "totalPullRequestContributions": 62,
-    "totalPullRequestReviewContributions": 41,
-    "contributedRepositories": [
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/knobots",
-      "knative-extensions/func-python",
-      "knative-extensions/eventing-kafka-broker",
-      "knative/community",
-      "knative/docs",
-      "knative/eventing",
-      "knative/infra",
-      "knative/ux",
-      "knative/release",
-      "knative/operator"
-    ]
-  },
-  "rhuss": {
-    "login": "rhuss",
-    "name": "Roland Huß",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 4,
-    "totalIssueContributions": 9,
-    "totalPullRequestContributions": 1,
-    "totalPullRequestReviewContributions": 14,
-    "contributedRepositories": [
-      "knative/community",
-      "knative/docs",
-      "knative/homebrew-client",
-      "knative/func",
-      "knative/client",
-      "knative/serving",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative-extensions/kn-plugin-event",
-      "knative-extensions/homebrew-kn-plugins",
-      "knative-extensions/security-guard"
-    ]
-  },
-  "ikavgo": {
-    "login": "ikavgo",
-    "name": "Iliia Khaprov - VMware by Broadcom",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 7,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 10,
-    "totalPullRequestReviewContributions": 2,
-    "contributedRepositories": [
-      "knative/community",
-      "knative/docs",
-      "knative-extensions/eventing-rabbitmq"
-    ]
-  },
-  "mmejia02": {
-    "login": "mmejia02",
-    "name": "Mariana Mejia",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 1,
-    "totalIssueContributions": 2,
-    "totalPullRequestContributions": 1,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": [
-      "knative/ux"
-    ]
-  },
-  "zainabhusain227": {
-    "login": "zainabhusain227",
-    "name": null,
-    "hasAnyContributions": true,
-    "totalCommitContributions": 1,
-    "totalIssueContributions": 8,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 1,
-    "contributedRepositories": [
-      "knative/ux",
-      "knative-extensions/educational-game"
-    ]
-  },
-  "daisy-ycguo": {
-    "login": "daisy-ycguo",
-    "name": "Ying Chun Guo",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  "yuzisun": {
-    "login": "yuzisun",
-    "name": "Dan Sun",
+  "dan-j": {
+    "login": "dan-j",
+    "name": "Dan",
     "hasAnyContributions": true,
     "totalCommitContributions": 0,
     "totalIssueContributions": 4,
     "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 6,
-    "contributedRepositories": [
-      "knative/operator",
-      "knative-extensions/serving-progressive-rollout"
-    ]
-  },
-  "houshengbo": {
-    "login": "houshengbo",
-    "name": "Vincent",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 85,
-    "totalIssueContributions": 12,
-    "totalPullRequestContributions": 166,
-    "totalPullRequestReviewContributions": 37,
-    "contributedRepositories": [
-      "knative-extensions/serving-progressive-rollout",
-      "knative-extensions/kn-plugin-operator",
-      "knative-extensions/autoscaler-keda",
-      "knative/operator",
-      "knative/docs",
-      "knative/community",
-      "knative/serving"
-    ]
-  },
-  "upodroid": {
-    "login": "upodroid",
-    "name": "Mahamed Ali",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 9,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 8,
-    "totalPullRequestReviewContributions": 71,
-    "contributedRepositories": [
-      "knative/infra",
-      "knative/hack",
-      "knative/community",
-      "knative/actions",
-      "knative/toolbox",
-      "knative/serving",
-      "knative-extensions/knobots",
-      "knative-extensions/kn-plugin-operator",
-      "knative-extensions/serving-progressive-rollout"
-    ]
-  },
-  "aavarghese": {
-    "login": "aavarghese",
-    "name": "Ansu Varghese",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
     "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
+    "contributedRepositories": [
+      "knative-extensions/eventing-natss"
+    ]
   },
-  "nrrso": {
-    "login": "nrrso",
-    "name": "Norris",
+  "astelmashenko": {
+    "login": "astelmashenko",
+    "name": "Andrii Stelmashenko",
     "hasAnyContributions": true,
-    "totalCommitContributions": 2,
+    "totalCommitContributions": 7,
     "totalIssueContributions": 2,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
+    "totalPullRequestContributions": 12,
+    "totalPullRequestReviewContributions": 3,
     "contributedRepositories": [
-      "knative/community",
-      "knative/docs"
-    ]
-  },
-  "KauzClay": {
-    "login": "KauzClay",
-    "name": "Clay Kauzlaric",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 3,
-    "totalIssueContributions": 2,
-    "totalPullRequestContributions": 6,
-    "totalPullRequestReviewContributions": 1,
-    "contributedRepositories": [
-      "knative/serving",
-      "knative-extensions/net-gateway-api",
-      "knative-extensions/net-contour"
-    ]
-  },
-  "lance": {
-    "login": "lance",
-    "name": "Lance Ball",
-    "hasAnyContributions": false,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  "mkuratczyk": {
-    "login": "mkuratczyk",
-    "name": "Michal Kuratczyk",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 0,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 1,
-    "contributedRepositories": [
-      "knative-extensions/eventing-rabbitmq"
-    ]
-  },
-  "pierDipi": {
-    "login": "pierDipi",
-    "name": "Pierangelo Di Pilato",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 264,
-    "totalIssueContributions": 32,
-    "totalPullRequestContributions": 284,
-    "totalPullRequestReviewContributions": 626,
-    "contributedRepositories": [
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/reconciler-test",
-      "knative-extensions/eventing-integrations",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/knobots",
-      "knative-extensions/eventing-istio",
-      "knative-extensions/eventing-redis",
-      "knative-extensions/kn-plugin-event",
       "knative-extensions/eventing-natss",
-      "knative-extensions/eventing-ceph",
-      "knative-extensions/eventing-rabbitmq",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative-extensions/eventing-autoscaler-keda",
-      "knative-extensions/eventing-gitlab",
       "knative/eventing",
-      "knative/docs",
-      "knative/operator",
-      "knative/pkg",
-      "knative/infra",
       "knative/func",
-      "knative/community",
       "knative/release"
     ]
   },
@@ -487,32 +726,9 @@
     "totalPullRequestReviewContributions": 0,
     "contributedRepositories": []
   },
-  "Leo6Leo": {
-    "login": "Leo6Leo",
-    "name": "Leo Li",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 72,
-    "totalIssueContributions": 86,
-    "totalPullRequestContributions": 68,
-    "totalPullRequestReviewContributions": 70,
-    "contributedRepositories": [
-      "knative/docs",
-      "knative/eventing",
-      "knative/ux",
-      "knative/community",
-      "knative/serving",
-      "knative/func",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/eventing-rabbitmq",
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/eventing-natss",
-      "knative-extensions/eventing-ceph",
-      "knative-extensions/eventing-kogito"
-    ]
-  },
-  "aslom": {
-    "login": "aslom",
-    "name": "Aleksander Slominski",
+  "sukumargaonkar": {
+    "login": "sukumargaonkar",
+    "name": "Sukumar Gaonkar",
     "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
@@ -520,274 +736,54 @@
     "totalPullRequestReviewContributions": 0,
     "contributedRepositories": []
   },
-  "cardil": {
-    "login": "cardil",
-    "name": "Chris Suszynski",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 38,
-    "totalIssueContributions": 19,
-    "totalPullRequestContributions": 44,
-    "totalPullRequestReviewContributions": 63,
-    "contributedRepositories": [
-      "knative-extensions/kn-plugin-event",
-      "knative-extensions/knobots",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative-extensions/net-istio",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/security-guard",
-      "knative-extensions/autoscaler-keda",
-      "knative-extensions/reconciler-test",
-      "knative-extensions/sample-controller",
-      "knative-extensions/net-contour",
-      "knative-extensions/net-gateway-api",
-      "knative-extensions/net-certmanager",
-      "knative-extensions/net-kourier",
-      "knative/client-pkg",
-      "knative/client",
-      "knative/hack",
-      "knative/toolbox",
-      "knative/infra",
-      "knative/actions",
-      "knative/community",
-      "knative/release",
-      "knative/eventing",
-      "knative/pkg",
-      "knative/networking",
-      "knative/caching",
-      "knative/serving"
-    ]
-  },
-  "dprotaso": {
-    "login": "dprotaso",
-    "name": "Dave Protasowski",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 239,
-    "totalIssueContributions": 46,
-    "totalPullRequestContributions": 235,
-    "totalPullRequestReviewContributions": 66,
-    "contributedRepositories": [
-      "knative-extensions/net-gateway-api",
-      "knative-extensions/net-contour",
-      "knative-extensions/net-istio",
-      "knative-extensions/knobots",
-      "knative-extensions/sample-controller",
-      "knative-extensions/net-kourier",
-      "knative-extensions/eventing-rabbitmq",
-      "knative-extensions/net-certmanager",
-      "knative-extensions/autoscaler-keda",
-      "knative-extensions/func-go",
-      "knative-extensions/.github",
-      "knative/serving",
-      "knative/community",
-      "knative/networking",
-      "knative/pkg",
-      "knative/infra",
-      "knative/actions",
-      "knative/func",
-      "knative/caching",
-      "knative/hack",
-      "knative/docs",
-      "knative/release",
-      "knative/toolbox",
-      "knative/operator",
-      "knative/client",
-      "knative/eventing"
-    ]
-  },
-  "matejvasek": {
-    "login": "matejvasek",
-    "name": "Matej Vašek",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 97,
-    "totalIssueContributions": 1,
-    "totalPullRequestContributions": 125,
-    "totalPullRequestReviewContributions": 15,
-    "contributedRepositories": [
-      "knative/func",
-      "knative/actions",
-      "knative/serving",
-      "knative/eventing"
-    ]
-  },
-  "davidhadas": {
-    "login": "davidhadas",
-    "name": "David Hadas",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 10,
-    "totalIssueContributions": 0,
-    "totalPullRequestContributions": 9,
-    "totalPullRequestReviewContributions": 3,
-    "contributedRepositories": [
-      "knative-extensions/security-guard",
-      "knative/community",
-      "knative/docs",
-      "knative/infra"
-    ]
-  },
-  "dan-j": {
-    "login": "dan-j",
-    "name": "Dan",
+  "csantanapr": {
+    "login": "csantanapr",
+    "name": "Carlos Santana",
     "hasAnyContributions": true,
     "totalCommitContributions": 0,
-    "totalIssueContributions": 4,
+    "totalIssueContributions": 1,
     "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
+    "totalPullRequestReviewContributions": 1,
     "contributedRepositories": [
-      "knative-extensions/eventing-natss"
+      "knative/func"
     ]
   },
-  "dsimansk": {
-    "login": "dsimansk",
-    "name": "David Simansky",
+  "yuzisun": {
+    "login": "yuzisun",
+    "name": "Dan Sun",
     "hasAnyContributions": true,
-    "totalCommitContributions": 133,
-    "totalIssueContributions": 8,
-    "totalPullRequestContributions": 112,
-    "totalPullRequestReviewContributions": 125,
-    "contributedRepositories": [
-      "knative-extensions/homebrew-kn-plugins",
-      "knative-extensions/knobots",
-      "knative-extensions/eventing-integrations",
-      "knative-extensions/kn-plugin-source-kafka",
-      "knative-extensions/eventing-natss",
-      "knative-extensions/kn-plugin-admin",
-      "knative-extensions/kn-plugin-event",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative-extensions/eventing-rabbitmq",
-      "knative-extensions/eventing-github",
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/kn-plugin-service-log",
-      "knative-extensions/.github",
-      "knative-extensions/eventing-autoscaler-keda",
-      "knative-extensions/kn-plugin-sample",
-      "knative-extensions/kn-plugin-source-kamelet",
-      "knative-extensions/autoscaler-keda",
-      "knative-extensions/eventing-redis",
-      "knative-extensions/eventing-ceph",
-      "knative-extensions/eventing-gitlab",
-      "knative-extensions/eventing-istio",
-      "knative-extensions/sample-source",
-      "knative-extensions/reconciler-test",
-      "knative-extensions/net-gateway-api",
-      "knative/community",
-      "knative/client",
-      "knative/release",
-      "knative/docs",
-      "knative/func",
-      "knative/actions",
-      "knative/homebrew-client",
-      "knative/hack",
-      "knative/client-pkg",
-      "knative/infra",
-      "knative/.github",
-      "knative/toolbox",
-      "knative/eventing",
-      "knative/serving",
-      "knative/caching",
-      "knative/networking",
-      "knative/pkg"
-    ]
-  },
-  "salaboy": {
-    "login": "salaboy",
-    "name": "salaboy",
-    "hasAnyContributions": false,
     "totalCommitContributions": 0,
     "totalIssueContributions": 0,
     "totalPullRequestContributions": 0,
-    "totalPullRequestReviewContributions": 0,
-    "contributedRepositories": []
-  },
-  "creydr": {
-    "login": "creydr",
-    "name": "Christoph Stäbler",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 124,
-    "totalIssueContributions": 42,
-    "totalPullRequestContributions": 125,
-    "totalPullRequestReviewContributions": 610,
+    "totalPullRequestReviewContributions": 5,
     "contributedRepositories": [
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/reconciler-test",
-      "knative-extensions/eventing-istio",
-      "knative-extensions/eventing-rabbitmq",
-      "knative-extensions/knobots",
-      "knative-extensions/eventing-natss",
-      "knative-extensions/eventing-ceph",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/eventing-gitlab",
-      "knative-extensions/eventing-autoscaler-keda",
-      "knative-extensions/eventing-github",
-      "knative-extensions/eventing-redis",
-      "knative-extensions/sample-source",
-      "knative-extensions/eventing-kogito",
-      "knative-extensions/homebrew-kn-plugins",
-      "knative-extensions/sample-controller",
-      "knative-extensions/eventing-kafka",
-      "knative/eventing",
-      "knative/docs",
-      "knative/community",
-      "knative/pkg",
-      "knative/release",
-      "knative/infra",
-      "knative/specs",
-      "knative/hack"
-    ]
-  },
-  "matzew": {
-    "login": "matzew",
-    "name": "Matthias Wessendorf",
-    "hasAnyContributions": true,
-    "totalCommitContributions": 123,
-    "totalIssueContributions": 35,
-    "totalPullRequestContributions": 154,
-    "totalPullRequestReviewContributions": 467,
-    "contributedRepositories": [
-      "knative-extensions/eventing-kafka-broker",
-      "knative-extensions/func-python",
-      "knative-extensions/func-go",
-      "knative-extensions/eventing-integrations",
-      "knative-extensions/kn-plugin-quickstart",
-      "knative-extensions/knobots",
-      "knative-extensions/eventing-ceph",
-      "knative-extensions/eventing-github",
-      "knative-extensions/backstage-plugins",
-      "knative-extensions/kn-plugin-event",
-      "knative-extensions/eventing-istio",
-      "knative-extensions/reconciler-test",
-      "knative-extensions/eventing-kafka",
-      "knative-extensions/eventing-gitlab",
-      "knative/eventing",
-      "knative/docs",
-      "knative/func",
-      "knative/community",
       "knative/operator",
-      "knative/specs",
-      "knative/release",
-      "knative/client",
-      "knative/hack",
-      "knative/infra",
-      "knative/pkg"
+      "knative-extensions/serving-progressive-rollout"
     ]
   },
-  "evankanderson": {
-    "login": "evankanderson",
-    "name": "Evan Anderson",
+  "mmejia02": {
+    "login": "mmejia02",
+    "name": "Mariana Mejia",
     "hasAnyContributions": true,
-    "totalCommitContributions": 6,
-    "totalIssueContributions": 1,
-    "totalPullRequestContributions": 5,
-    "totalPullRequestReviewContributions": 31,
+    "totalCommitContributions": 0,
+    "totalIssueContributions": 2,
+    "totalPullRequestContributions": 0,
+    "totalPullRequestReviewContributions": 0,
     "contributedRepositories": [
-      "knative/docs",
-      "knative/community",
-      "knative/hack",
-      "knative/infra",
-      "knative/actions",
-      "knative/pkg",
-      "knative/eventing",
-      "knative-extensions/knobots"
+      "knative/ux"
+    ]
+  },
+  "ikavgo": {
+    "login": "ikavgo",
+    "name": "Iliia Khaprov - VMware by Broadcom",
+    "hasAnyContributions": true,
+    "totalCommitContributions": 5,
+    "totalIssueContributions": 0,
+    "totalPullRequestContributions": 4,
+    "totalPullRequestReviewContributions": 2,
+    "contributedRepositories": [
+      "knative-extensions/eventing-rabbitmq",
+      "knative/community"
     ]
   }
 }
